@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\stoyan\documents\visual studio 2015\projects\hw4\hw4\source.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\stoyan\documents\visual studio 2015\projects\hw4\hw4\source.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\hw4\hw4\source.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\hw4\hw4\source.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\hw4\hw4\source.cpp(109): warning C4305: 'argument': truncation from 'double' to 'float'
+  HW4.vcxproj -> C:\Users\stoyan\Documents\Visual Studio 2015\Projects\HW4\Debug\HW4.exe
+  HW4.vcxproj -> C:\Users\stoyan\Documents\Visual Studio 2015\Projects\HW4\Debug\HW4.pdb (Partial PDB)

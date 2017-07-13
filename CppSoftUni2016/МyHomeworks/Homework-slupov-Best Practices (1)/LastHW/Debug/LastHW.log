@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\stoyan\documents\visual studio 2015\projects\lasthw\lasthw\source.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\lasthw\lasthw\source.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\lasthw\lasthw\source.cpp(70): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stoyan\documents\visual studio 2015\projects\lasthw\lasthw\source.cpp(32): warning C4715: '<lambda_3eb9bb50b569e7b09988c4ad338e4060>::operator()': not all control paths return a value
+  LastHW.vcxproj -> C:\Users\stoyan\documents\visual studio 2015\Projects\LastHW\Debug\LastHW.exe

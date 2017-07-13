@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.ImportExport.dll.config
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.ImportExport.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.ImportExport.pdb
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.Data.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.Models.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.Data.pdb
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.Data.dll.config
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\TeamBuilder.Models.pdb
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\obj\Debug\TeamBuilder.ImportExport.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\obj\Debug\TeamBuilder.ImportExport.dll
+D:\Visual Studio Projects\Softuni\TeamBuilder\TeamBuilder.ImportExport\obj\Debug\TeamBuilder.ImportExport.pdb

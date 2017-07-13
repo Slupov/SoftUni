@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2017\Projects\TeamBuilder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.dll
+c:\users\stoyan\documents\visual studio 2017\Projects\TeamBuilder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.pdb
+c:\users\stoyan\documents\visual studio 2017\Projects\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2017\Projects\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.dll
+c:\users\stoyan\documents\visual studio 2017\Projects\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.pdb

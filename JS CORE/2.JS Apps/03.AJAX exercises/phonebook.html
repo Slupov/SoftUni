@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phonebook</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<h1>Phonebook</h1>
+<ul id="phonebook"></ul>
+<button id="btnLoad">Load</button>
+
+<h2>Create Contact</h2>
+Person: <input type="text" id="person"/>
+<br>
+Phone: <input type="text" id="phone"/>
+<br>
+<button id="btnCreate">Create</button>
+
+<script>
+    function attachEvents() {
+        const url = 'https://phonebook-nakov.firebaseio.com/phonebook';
+
+        function load() {
+            $("#phonebook").empty();
+
+            $.get(url + ".json")
+                    .then(printContacts)
+        }
+
+        function createContacts() {
+            let person = $("#person").val();
+            let phone = $("#phone").val();
+
+            let data = JSON.stringify({
+                person: person,
+                phone: phone
+            });
+
+            $.post(url + ".json", data)
+                    .then(load);
+
+            $("#person").val("");
+            $("#phone").val("");
+
+        }
+        function deleteContact (contactKey) {
+            let deleteRequest = {
+                method: 'DELETE',
+                url: url + `/${contactKey}.json`
+            };
+
+            $.ajax(deleteRequest)
+                    .then(load)
+        }
+
+        function printContacts(data) {
+            for (let c in data) {
+                let contact = data[c];
+                let li = $('<li>');
+                li.text(`${contact.person} - ${contact.phone} `);
+                let deleteLink = $(`<button>[Delete]</button>`);
+                deleteLink.on('click', function () {
+                    deleteContact(c);
+                });
+                li.append(deleteLink);
+                $('#phonebook').append(li);
+            }
+        }
+
+        $('#btnLoad').click(load);
+        $('#btnCreate').click(createContacts);
+
+    }
+    attachEvents();
+</script>
+</body>
+</html>

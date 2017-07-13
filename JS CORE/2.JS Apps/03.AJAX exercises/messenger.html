@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Messenger</title>
+    <style>
+        label {
+            display: inline-block;
+            width: 5em;
+        }
+
+        #author, #content {
+            width: 30em;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main">
+    <textarea id="messages" cols="80" rows="12" disabled="true"></textarea>
+    <div id="controls">
+        <label for="author">Name: </label><input id="author" type="text"><br>
+        <label for="content">Message: </label><input id="content" type="text">
+        <input id="submit" type="button" value="Send">
+        <input id="refresh" type="button" value="Refresh">
+    </div>
+</div>
+<!--<script src="solution.js"></script>-->
+<script>
+    function attachEvents() {
+        const url = 'https://messenger-947a9.firebaseio.com/messenger';
+
+        function send() {
+            let username = $('#author').val();
+            let content = $('#content').val();
+
+            let time = Date.now();
+
+            let data = JSON.stringify({
+                author: username,
+                content: content,
+                timestamp: time
+            });
+
+            $.post(url + ".json", data)
+                    .then(refresh);
+
+        }
+
+        function refresh() {
+            $.get(url + '.json')
+                    .then(function (data) {
+                        let chatTxt = '';
+
+                        for (let msg in data) {
+                            let message = data[msg];
+                            chatTxt += message.author + ": " + message.content + "\n";
+                        }
+
+                        $("#messages").text(chatTxt);
+                    })
+        }
+
+        $('#submit').click(send);
+        $('#refresh').click(refresh);
+    }
+    attachEvents();
+</script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\hw3\hw3\source.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW3.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\HW3\Debug\HW3.exe
+  HW3.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\HW3\Debug\HW3.pdb (Partial PDB)

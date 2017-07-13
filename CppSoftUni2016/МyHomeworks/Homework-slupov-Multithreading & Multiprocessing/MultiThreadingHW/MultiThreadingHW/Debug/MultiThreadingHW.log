@@ -1,0 +1,52 @@
+﻿  Source.cpp
+c:\users\stoyan\documents\visual studio 2015\projects\multithreadinghw\multithreadinghw\source.cpp(57): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\stoyan\documents\visual studio 2015\projects\multithreadinghw\multithreadinghw\source.cpp(69): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1399): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1467): note: see reference to function template instantiation 'bool std::_Invoker_functor::_Call<bool(__cdecl *)(int),_Ty>(_Callable &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Callable=bool (__cdecl *)(int)
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(240): note: see reference to function template instantiation 'bool std::invoke<bool(__cdecl *)(int),unsigned __int64>(_Callable &&,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Callable=bool (__cdecl *)(int)
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(249): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Execute<0,1>(std::tuple<bool (__cdecl *)(int),unsigned __int64> &,std::integer_sequence<size_t,0,1>)' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(247): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Execute<0,1>(std::tuple<bool (__cdecl *)(int),unsigned __int64> &,std::integer_sequence<size_t,0,1>)' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(244): note: while compiling class template member function 'void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept'
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(232): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread(259): note: see reference to class template instantiation 'std::_LaunchPad<_Target>' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thread(50): note: see reference to function template instantiation 'void std::_Launch<std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<_Ty>>>(_Thrd_t *,_Target &&)' being compiled
+          with
+          [
+              _Ty=std::tuple<bool (__cdecl *)(int),unsigned __int64>,
+              _Target=std::unique_ptr<std::tuple<bool (__cdecl *)(int),unsigned __int64>,std::default_delete<std::tuple<bool (__cdecl *)(int),unsigned __int64>>>
+          ]
+  c:\users\stoyan\documents\visual studio 2015\projects\multithreadinghw\multithreadinghw\source.cpp(59): note: see reference to function template instantiation 'std::thread::thread<bool(__cdecl &)(int),unsigned __int64&,void>(_Fn,unsigned __int64 &)' being compiled
+          with
+          [
+              _Fn=bool (__cdecl &)(int)
+          ]
+  MultiThreadingHW.vcxproj -> C:\Users\stoyan\Documents\Visual Studio 2015\Projects\MultiThreadingHW\Debug\MultiThreadingHW.exe

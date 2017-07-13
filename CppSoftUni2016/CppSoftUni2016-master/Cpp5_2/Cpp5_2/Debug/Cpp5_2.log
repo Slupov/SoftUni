@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\downloads\cppsoftuni2016-master\cppsoftuni2016-master\cpp5_2\cpp5_2\source.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PhysicsControl.cpp
+d:\downloads\cppsoftuni2016-master\cppsoftuni2016-master\cpp5_2\cpp5_2\physicscontrol.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\downloads\cppsoftuni2016-master\cppsoftuni2016-master\cpp5_2\cpp5_2\physicscontrol.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Cpp5_2.vcxproj -> D:\Downloads\CppSoftUni2016-master\CppSoftUni2016-master\Cpp5_2\Debug\Cpp5_2.exe

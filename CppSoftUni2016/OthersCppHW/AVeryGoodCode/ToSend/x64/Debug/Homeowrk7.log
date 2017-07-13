@@ -1,0 +1,11 @@
+﻿  Vehicle.cpp
+  main.cpp
+d:\c++\averygoodcode\tosend\utility.h(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\c++\averygoodcode\tosend\utility.h(23): warning C4018: '<': signed/unsigned mismatch
+d:\c++\averygoodcode\tosend\utility.h(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\c++\averygoodcode\tosend\utility.h(17): warning C4101: 'letter': unreferenced local variable
+d:\c++\averygoodcode\tosend\main.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\c++\averygoodcode\tosend\main.cpp(62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  Generating Code...
+  Homeowrk7.vcxproj -> D:\C++\AVeryGoodCode\ToSend\x64\Debug\Homeowrk7.exe

@@ -1,0 +1,2000 @@
+59	George Scott	Male	Krusevica	British	TRUE
+37	Rose Simpson	Female	Dayangzhou	British	FALSE
+102	Johnny Owens	Male	Petauke	British	FALSE
+41	Karen Romero	Female	Booterstown	British	TRUE
+83	Doris Garza	Female	Jiaowei	British	FALSE
+35	Martha Bowman	Female	Banjar Buahan	British	FALSE
+85	Nicholas Ramirez	Male	Hornowek	British	FALSE
+67	Teresa Castillo	Female	Butuan	British	FALSE
+92	Ashley Williams	Female	Yawata	British	TRUE
+88	Wayne Carroll	Male	Fulu	British	TRUE
+33	Susan Warren	Female	Jawf al Maqbabah	British	TRUE
+41	Eugene Vasquez	Male	Massaguet	British	TRUE
+69	John Watkins	Male	Saga-shi	British	FALSE
+25	Nicholas Spencer	Male	Mangaldan	British	TRUE
+83	Christina Mason	Female	Buyant	British	TRUE
+65	Carlos Edwards	Male	Zelenograd	British	TRUE
+47	Teresa Green	Female	Tanamiting	British	FALSE
+28	Anthony Rogers	Male	Ainazi	British	TRUE
+85	Sarah Greene	Female	Xiaoshanzi	British	TRUE
+71	Stephanie Peterson	Female	Jambean	British	FALSE
+89	Robin Johnston	Female	Malicboy	British	TRUE
+94	Sean Franklin	Male	Kibondo	British	FALSE
+97	Deborah Spencer	Female	Dabrowice	British	FALSE
+20	Russell Bryant	Male	Kisarawe	British	TRUE
+93	Alice Lee	Female	Waimangura	British	FALSE
+80	William Long	Male	Sila	British	FALSE
+57	Judy Chavez	Female	Honghualiangzi	British	FALSE
+66	Sandra Wells	Female	Polovinnoye	British	TRUE
+85	Lillian Woods	Female	Kalangan	British	FALSE
+60	Henry Washington	Male	Puerto Iguazu	British	TRUE
+97	Arthur Jenkins	Male	Tamansari	British	TRUE
+19	Susan Henderson	Female	Sydney	British	TRUE
+84	Rebecca Ray	Female	Dezanovac	British	TRUE
+76	Arthur Robertson	Male	Montceau-les-Mines	British	FALSE
+76	Fred Grant	Male	Kumanovo	British	FALSE
+42	Virginia Turner	Female	El’brus	British	FALSE
+55	Christina Reynolds	Female	Wonorejo	British	TRUE
+39	Beverly Franklin	Female	Nalsian Norte	British	FALSE
+73	Laura Porter	Female	Hiratsuka	British	FALSE
+53	Howard Ramos	Male	Nanger	British	TRUE
+26	Pamela Gray	Female	Murca	British	TRUE
+94	Nancy Hicks	Female	Cam Lam	British	FALSE
+33	Deborah Mendoza	Female	Dragomer	British	TRUE
+49	Sean Fisher	Male	Hassleholm	British	FALSE
+40	Diana Howard	Female	Watangan	British	TRUE
+53	Joyce Garcia	Female	Marapat	British	FALSE
+30	Teresa Griffin	Female	Praga Polnoc	British	FALSE
+66	Sean Howard	Male	Pilar	British	TRUE
+20	Anthony Gordon	Male	Los Pinos	British	TRUE
+98	Edward Shaw	Male	Trabulheira	British	FALSE
+69	Andrea Davis	Female	Sosnowka	British	TRUE
+99	Amy Nguyen	Female	Shuitianhe	British	FALSE
+20	Matthew Cole	Male	Kielczow	British	TRUE
+84	Tammy Garza	Female	Trzciana	British	TRUE
+35	Julie Reyes	Female	Komendantsky aerodrom	British	TRUE
+84	Philip Hamilton	Male	Shali	British	FALSE
+22	Brian Richardson	Male	Phatthana Nikhom	British	FALSE
+87	Larry Burke	Male	Pedreira	British	TRUE
+102	Ralph Hall	Male	Matinao	British	FALSE
+96	Craig Welch	Male	Kokar	British	TRUE
+94	Edward Weaver	Male	Fankeng	British	TRUE
+40	Lillian Ferguson	Female	Gucun	British	TRUE
+91	Brenda Nichols	Female	Maukaro	British	FALSE
+98	Rose Ferguson	Female	Bradford	British	TRUE
+85	Bonnie Johnson	Female	Itea	British	FALSE
+87	Julia Thomas	Female	Lembanah	British	TRUE
+91	Henry Ward	Male	Paradela	British	FALSE
+40	Jimmy Knight	Male	Layo	British	TRUE
+19	Bruce Webb	Male	Fatualam	British	TRUE
+70	Andrea Hunter	Female	Sirajganj	British	TRUE
+82	Brandon Simmons	Male	Krajan Kinanti	British	TRUE
+65	Laura Morgan	Female	Huddinge	British	TRUE
+51	Ronald Turner	Male	Jandir	British	FALSE
+65	Jason Montgomery	Male	Keta	British	TRUE
+66	Larry Collins	Male	Fort Worth	British	FALSE
+20	Sandra Meyer	Female	Jatirejo	British	FALSE
+64	Brenda Butler	Female	Barueri	British	TRUE
+80	Beverly Jacobs	Female	Zhanbei	British	FALSE
+38	Carl Richardson	Male	Buzet	British	TRUE
+40	William Hall	Male	Leduc	British	FALSE
+24	Philip Lewis	Male	Mata de Sao Joao	British	FALSE
+46	Matthew Fields	Male	Great Neck	British	TRUE
+19	George Roberts	Male	Quemu Quemu	British	TRUE
+19	Kevin Wood	Male	Piastow	British	FALSE
+103	Justin Kelly	Male	Pisan	British	FALSE
+62	Louis Wood	Male	Bua Yai	British	TRUE
+45	Anthony Stephens	Male	Krivaja	British	TRUE
+34	George Taylor	Male	Proteccion	British	TRUE
+50	Michelle Austin	Female	Sirnasari	British	TRUE
+57	Gerald Woods	Male	San Juan Sacatepequez	British	FALSE
+55	Sara Peters	Female	Ambelokipoi	British	TRUE
+47	Michael Ryan	Male	Myslenice	British	TRUE
+64	Joan Frazier	Female	Golub-Dobrzyn	British	TRUE
+85	Diane Martinez	Female	Kaytitinga	British	TRUE
+23	Paul Torres	Male	Plovdiv	British	FALSE
+82	Keith Henderson	Male	Kolpny	British	FALSE
+41	Alice Smith	Female	Catbalogan	British	FALSE
+73	Judy Stanley	Female	Somie	British	FALSE
+80	Juan Wagner	Male	Hujia	British	FALSE
+35	Evelyn Richardson	Female	Ipoti	British	TRUE
+75	Maria Phillips	Female	Krzyzowice	British	TRUE
+42	Thomas Bishop	Male	Magatos	British	FALSE
+59	Jason Riley	Male	Gorno Orizari	British	FALSE
+62	Bruce Roberts	Male	Seia	British	FALSE
+86	Matthew Sullivan	Male	Juzhen	British	FALSE
+19	Carolyn Turner	Female	Semanding	British	TRUE
+39	Aaron Hunt	Male	Shemursha	British	FALSE
+93	Clarence Long	Male	Huaqiao	British	FALSE
+26	Angela Murphy	Female	Manuel Cavazos Lerma	British	TRUE
+76	Harry Green	Male	Qingyuan	British	TRUE
+97	Amanda Garcia	Female	Laingsburg	British	TRUE
+37	Diana Arnold	Female	Perfilovo	British	TRUE
+81	Dorothy Ellis	Female	Nailong	British	TRUE
+39	Melissa Gomez	Female	Port Nolloth	British	TRUE
+97	Jacqueline Oliver	Female	Yazykovo	British	FALSE
+92	Jonathan Fields	Male	Yashiga	British	TRUE
+60	Gerald Evans	Male	Malayer	British	FALSE
+42	Theresa Jackson	Female	Jamshoro	British	TRUE
+42	Scott Peterson	Male	Nancy	British	TRUE
+75	Thomas Thomas	Male	Pirojpur	British	TRUE
+67	Karen Robinson	Female	Tammun	British	TRUE
+47	Pamela Reed	Female	Huaguoshan	British	FALSE
+65	Denise Stanley	Female	Taber	British	FALSE
+39	Sandra Turner	Female	Liuge	British	FALSE
+38	Bobby Jenkins	Male	Obolensk	British	FALSE
+93	Christina Allen	Female	Oefau	British	TRUE
+90	Lois Garcia	Female	Boras	British	TRUE
+39	Joshua Wilson	Male	Yiyang	British	TRUE
+48	Billy Mitchell	Male	Milos	British	FALSE
+23	Andrea Martin	Female	Winton	British	TRUE
+67	Billy Graham	Male	Tabatinga	British	TRUE
+21	Mildred Clark	Female	Zhanghua	British	TRUE
+72	Jennifer Duncan	Female	Horta	British	FALSE
+97	Ashley Hughes	Female	Portel	British	TRUE
+70	Donna Williamson	Female	Morelos	British	TRUE
+101	Catherine Watson	Female	Atlanta	British	TRUE
+20	Todd Franklin	Male	Mogok	British	TRUE
+39	Nicholas Perez	Male	Yalaguina	British	TRUE
+53	Virginia Harvey	Female	Huyuan	British	TRUE
+46	Ryan Ramirez	Male	Sadao	British	FALSE
+79	Fred Moreno	Male	Chapelton	British	FALSE
+55	Pamela Williams	Female	Santa Elena de Uairen	British	TRUE
+63	Lois Barnes	Female	Tororo	British	TRUE
+41	Heather Allen	Female	Paraisopolis	British	TRUE
+100	Eric Powell	Male	Ollantaytambo	British	TRUE
+67	Louis Brooks	Male	Sabinopolis	British	TRUE
+98	Kathleen Baker	Female	Trikora	British	TRUE
+69	Craig Butler	Male	Saint-Quentin-en-Yvelines	British	FALSE
+96	Brenda Fox	Female	Tammela	British	FALSE
+92	Maria Warren	Female	Goiana	British	FALSE
+75	Brian Howard	Male	Trat	British	FALSE
+66	Nicholas Hernandez	Male	Urasqui	British	TRUE
+27	Chris Carpenter	Male	Krzczonow	British	TRUE
+84	Paula Gordon	Female	Kunsan	British	FALSE
+95	Ann Campbell	Female	Horni Becva	British	FALSE
+93	Randy Fuller	Male	Millau	British	TRUE
+96	Harry Sanders	Male	Meaux	British	TRUE
+67	Angela Campbell	Female	Pedro Santana	British	TRUE
+32	Walter Wilson	Male	Kidodi	British	FALSE
+93	Katherine Graham	Female	Jasieniec	British	TRUE
+49	Kevin Hall	Male	Tunis	British	TRUE
+92	Theresa Cole	Female	Nanniu	British	FALSE
+90	Randy Long	Male	Al Miqdadiyah	British	TRUE
+31	Doris Gray	Female	Renchaoxi	British	TRUE
+32	Emily Welch	Female	Ikoma	British	TRUE
+86	Marie Robinson	Female	Abang	British	TRUE
+30	Ronald Cook	Male	Tapera	British	TRUE
+50	Jose Knight	Male	Ludvika	British	FALSE
+45	Kathy Willis	Female	Boras	British	FALSE
+20	Helen Burke	Female	Linfen	British	TRUE
+56	Richard Berry	Male	Banyubang	British	FALSE
+85	Bobby Taylor	Male	Dallas	British	FALSE
+38	Phyllis Phillips	Female	Futu	British	TRUE
+63	Jonathan Franklin	Male	Ciherang	British	FALSE
+71	Jennifer Ross	Female	Lyon	British	TRUE
+40	Robert Reyes	Male	Chaem Luang	British	TRUE
+47	Marie Warren	Female	Vicente Guerrero	British	TRUE
+20	Janet Torres	Female	Xinli	British	TRUE
+93	Barbara Nichols	Female	Lang Suan	British	TRUE
+76	Carolyn Tucker	Female	Neo Psychiko	British	TRUE
+75	Henry Warren	Male	Yunchi	British	TRUE
+83	Susan Day	Female	Zhongying	British	TRUE
+24	Jeffrey Murray	Male	La Laja	British	TRUE
+56	Daniel Rodriguez	Male	Yingchengzi	British	TRUE
+35	Sharon Scott	Female	Dalovice	British	FALSE
+81	Sean Oliver	Male	Zango	British	TRUE
+89	Roy Ryan	Male	Aianteio	British	TRUE
+56	Justin Sims	Male	Zhoushizhuang	British	TRUE
+57	Russell Hayes	Male	Koln	British	TRUE
+41	Joseph Bowman	Male	Ranong	British	TRUE
+90	David Woods	Male	Anibare	British	FALSE
+94	Denise Turner	Female	Rurrenabaque	British	TRUE
+97	Norma Washington	Female	Bihac	British	FALSE
+29	Lori Collins	Female	Salinggara	British	TRUE
+34	Craig Martinez	Male	Salaverry	British	TRUE
+72	Phyllis West	Female	Changjiang	British	TRUE
+50	Carlos Riley	Male	Gala	British	TRUE
+38	Victor Greene	Male	Ermelo	British	TRUE
+80	Carl Ross	Male	Murindo	British	FALSE
+19	Donald Diaz	Male	Las Palmas	British	TRUE
+22	Mark Black	Male	Coaldale	British	TRUE
+79	Betty Hansen	Female	Mercedes	British	TRUE
+34	Mildred Kennedy	Female	Bestala	British	FALSE
+90	Albert Martinez	Male	Kastsyukowka	British	TRUE
+39	Judy Hawkins	Female	Penal	British	FALSE
+21	Dennis Alexander	Male	Dagkar	British	FALSE
+79	Ann Warren	Female	Xinfu	British	TRUE
+84	Amanda Welch	Female	Valdivia	British	TRUE
+103	Brian Morgan	Male	Toukh	British	TRUE
+65	Harry Harper	Male	Troyan	British	TRUE
+87	Victor Henderson	Male	Chengjiao	British	TRUE
+65	Patricia Edwards	Female	Hayil	British	TRUE
+22	Christine Watkins	Female	Sangmu	British	TRUE
+94	Emily Butler	Female	Novovladykino	British	TRUE
+94	Brandon Johnston	Male	Caluya	British	TRUE
+87	Sharon Tucker	Female	Vereya	British	FALSE
+63	Cheryl Taylor	Female	Jonkoping	British	FALSE
+31	Mary Barnes	Female	Bengga	British	FALSE
+57	Jerry Phillips	Male	Mezinovskiy	British	FALSE
+82	Debra Lane	Female	Siemkowice	British	TRUE
+57	Debra Henderson	Female	Qom	British	TRUE
+81	Henry White	Male	Xianzong	British	TRUE
+78	Kathryn Baker	Female	Norrtalje	British	TRUE
+76	Howard Morales	Male	Malandag	British	TRUE
+27	Shawn Griffin	Male	Amadora	British	FALSE
+99	Janice King	Female	Batad	British	FALSE
+89	Juan Jordan	Male	Norsborg	British	FALSE
+18	Jessica Thompson	Female	Brighton	British	TRUE
+72	Christopher Hunter	Male	Brighton	British	TRUE
+31	Judith Dunn	Female	Brighton	British	TRUE
+74	Maria Gray	Female	Brighton	British	TRUE
+91	Paul Taylor	Male	Brighton	British	FALSE
+24	Juan Cruz	Male	Brighton	British	TRUE
+81	Alan Murphy	Male	Brighton	British	FALSE
+22	Roger Nguyen	Male	Brighton	British	FALSE
+87	Jesse Robinson	Male	Brighton	British	TRUE
+71	Frances Sanders	Female	Brighton	British	FALSE
+47	Martin Fisher	Male	Brighton	British	TRUE
+37	Ernest James	Male	Brighton	British	TRUE
+28	Emily Reid	Female	Brighton	British	FALSE
+20	Robert Williams	Male	Brighton	British	TRUE
+86	Katherine Thomas	Female	Brighton	British	TRUE
+92	Melissa Boyd	Female	Brighton	British	TRUE
+54	Kimberly Stanley	Female	Brighton	British	TRUE
+91	Karen Schmidt	Female	Brighton	British	TRUE
+71	Edward Rodriguez	Male	Brighton	British	FALSE
+58	Martha Cooper	Female	Brighton	British	FALSE
+58	Shawn Mcdonald	Male	Brighton	British	TRUE
+33	Carl Gonzalez	Male	Brighton	British	TRUE
+84	Sandra Reynolds	Female	Brighton	British	TRUE
+19	Louise Matthews	Female	Brighton	British	TRUE
+92	Judith Andrews	Female	Brighton	British	TRUE
+91	Kelly Garcia	Female	Brighton	British	TRUE
+80	Bonnie Harper	Female	Brighton	British	TRUE
+61	Kevin Clark	Male	Brighton	British	TRUE
+101	Larry Ortiz	Male	Brighton	British	TRUE
+32	Gary Adams	Male	Brighton	British	TRUE
+32	Gerald Miller	Male	Brighton	British	TRUE
+103	Nancy Elliott	Female	Brighton	British	TRUE
+52	Richard Garcia	Male	Brighton	British	FALSE
+32	Ernest Medina	Male	Brighton	British	TRUE
+53	George Kennedy	Male	Brighton	British	TRUE
+40	Carolyn Williams	Female	Brighton	British	TRUE
+65	Gregory Perez	Male	Brighton	British	FALSE
+39	Karen Lewis	Female	Brighton	British	TRUE
+20	Kathryn Taylor	Female	Brighton	British	TRUE
+83	Joyce Carter	Female	Brighton	British	FALSE
+20	Kevin Andrews	Male	Brighton	British	FALSE
+80	Virginia Stephens	Female	Brighton	British	FALSE
+92	Keith Kim	Male	Brighton	British	TRUE
+88	Kathryn Lawrence	Female	Brighton	British	TRUE
+58	Kevin Butler	Male	Brighton	British	FALSE
+75	Daniel Gordon	Male	Brighton	British	FALSE
+70	Daniel Lynch	Male	Brighton	British	FALSE
+101	Tammy Clark	Female	Brighton	British	TRUE
+57	Jennifer Alvarez	Female	Brighton	British	TRUE
+67	Janet Hamilton	Female	Brighton	British	FALSE
+78	Denise Reid	Female	Brighton	British	FALSE
+89	Jeffrey Spencer	Male	Brighton	British	TRUE
+31	Catherine Young	Female	Brighton	British	FALSE
+30	Sharon Mendoza	Female	Brighton	British	TRUE
+83	Annie Vasquez	Female	Brighton	British	TRUE
+44	Kathleen Palmer	Female	Brighton	British	FALSE
+56	Thomas Turner	Male	Brighton	British	FALSE
+71	Ernest Arnold	Male	Brighton	British	TRUE
+59	Christina Morales	Female	Brighton	British	TRUE
+24	Gary Edwards	Male	Brighton	British	TRUE
+98	Patrick Matthews	Male	Brighton	British	TRUE
+27	Johnny Weaver	Male	Brighton	British	TRUE
+19	Jonathan Reyes	Male	Brighton	British	FALSE
+93	Dorothy Day	Female	Brighton	British	FALSE
+32	Laura Fuller	Female	Brighton	British	FALSE
+28	Katherine Bryant	Female	Brighton	British	FALSE
+86	Norma Rice	Female	Brighton	British	FALSE
+31	Julie Cook	Female	Brighton	British	TRUE
+83	Sandra Torres	Female	Brighton	British	FALSE
+73	Kathryn Ross	Female	Brighton	British	TRUE
+24	Larry Olson	Male	Brighton	British	FALSE
+47	Kathryn Chavez	Female	Brighton	British	TRUE
+89	Catherine Flores	Female	Brighton	British	FALSE
+91	Fred Black	Male	Brighton	British	FALSE
+77	Annie Daniels	Female	Brighton	British	TRUE
+48	Jane Henderson	Female	Brighton	British	TRUE
+49	Irene Price	Female	Brighton	British	TRUE
+77	Jonathan Mitchell	Male	Brighton	British	TRUE
+68	Henry Martinez	Male	Brighton	British	FALSE
+100	Jacqueline Graham	Female	Brighton	British	FALSE
+72	Christina Gray	Female	Brighton	British	TRUE
+24	Elizabeth Fowler	Female	Brighton	British	TRUE
+102	Eric Watson	Male	Brighton	British	FALSE
+63	William Howard	Male	Brighton	British	TRUE
+57	Phyllis Bowman	Female	Brighton	British	TRUE
+28	Keith Carr	Male	Zhangfeng	British	TRUE
+96	Judy Kelly	Female	Bournemouth	British	TRUE
+19	Brian Peters	Male	Bournemouth	British	TRUE
+60	Cynthia Parker	Female	Bournemouth	British	TRUE
+103	Kathryn Burke	Female	Bournemouth	British	TRUE
+57	Nicole Torres	Female	Bournemouth	British	TRUE
+25	Christine Wells	Female	Bournemouth	British	FALSE
+84	Andrea Burton	Female	Bournemouth	British	TRUE
+94	Maria Gordon	Female	Bournemouth	British	FALSE
+55	Jonathan Matthews	Male	Bournemouth	British	TRUE
+30	Benjamin Gray	Male	Bournemouth	British	TRUE
+21	Jose Schmidt	Male	Bournemouth	British	TRUE
+26	Scott Stanley	Male	Bournemouth	British	FALSE
+101	Michelle Smith	Female	Bournemouth	British	FALSE
+103	Joshua Cunningham	Male	Bournemouth	British	TRUE
+70	Jeremy Peters	Male	Bournemouth	British	FALSE
+100	Chris Gray	Male	Bournemouth	British	TRUE
+102	Carlos Chapman	Male	Bournemouth	British	FALSE
+92	Lori Wheeler	Female	Bournemouth	British	FALSE
+46	Janice Frazier	Female	Bournemouth	British	FALSE
+86	Mildred Reyes	Female	Bournemouth	British	TRUE
+79	Dennis Watkins	Male	Bournemouth	British	TRUE
+37	Virginia Sanders	Female	Bournemouth	British	FALSE
+72	Walter Butler	Male	Bournemouth	British	FALSE
+22	Randy Dixon	Male	Bournemouth	British	TRUE
+32	Ryan Burke	Male	Bournemouth	British	TRUE
+46	Rose Kelly	Female	Bournemouth	British	FALSE
+36	Joan Martin	Female	Bournemouth	British	FALSE
+67	Michelle Gibson	Female	Bournemouth	British	TRUE
+44	Anne James	Female	Bournemouth	British	FALSE
+54	Ralph Fisher	Male	Bournemouth	British	TRUE
+68	Beverly Duncan	Female	Bournemouth	British	FALSE
+89	Stephanie King	Female	Bournemouth	British	TRUE
+36	Annie Allen	Female	Bournemouth	British	FALSE
+32	Clarence Oliver	Male	Bournemouth	British	TRUE
+91	Raymond Collins	Male	Bournemouth	British	FALSE
+59	Roger Perez	Male	Bournemouth	British	TRUE
+23	Diana Moreno	Female	Bournemouth	British	TRUE
+29	Shawn Reynolds	Male	Bournemouth	British	TRUE
+52	Gloria Franklin	Female	Bournemouth	British	FALSE
+22	Kathryn Alvarez	Female	Bournemouth	British	FALSE
+59	Martin Frazier	Male	Bournemouth	British	FALSE
+27	Carlos Garza	Male	Bournemouth	British	FALSE
+47	Frank Young	Male	Bournemouth	British	TRUE
+96	Randy Turner	Male	Bournemouth	British	TRUE
+94	Steve Hawkins	Male	Bournemouth	British	TRUE
+33	Gloria Harvey	Female	Bournemouth	British	TRUE
+97	Jean Anderson	Female	Bournemouth	British	FALSE
+68	Jessica Rice	Female	Bournemouth	British	FALSE
+47	Howard Taylor	Male	Bournemouth	British	FALSE
+30	Angela Nguyen	Female	Bournemouth	British	FALSE
+78	Stephen Hansen	Male	Bournemouth	British	TRUE
+99	Ernest Mcdonald	Male	Bournemouth	British	TRUE
+86	William Washington	Male	Bournemouth	British	FALSE
+29	Steven Palmer	Male	Bournemouth	British	FALSE
+83	Maria Alexander	Female	Bournemouth	British	FALSE
+22	Heather Burton	Female	Bournemouth	British	FALSE
+24	Walter Wheeler	Male	Bournemouth	British	TRUE
+30	Christopher Evans	Male	Bournemouth	Indian	TRUE
+38	Steven Ellis	Male	Bournemouth	Indian	TRUE
+102	Denise Hamilton	Female	Bournemouth	Indian	FALSE
+83	Janet Riley	Female	Bournemouth	Indian	TRUE
+39	Shawn Fuller	Male	Bournemouth	Indian	FALSE
+74	Philip Austin	Male	Bournemouth	Indian	TRUE
+63	Beverly Tucker	Female	Bournemouth	Indian	TRUE
+83	Terry Warren	Male	Bournemouth	Indian	FALSE
+98	Kenneth Oliver	Male	Bournemouth	Indian	TRUE
+37	Irene Fields	Female	Bournemouth	Indian	FALSE
+55	Clarence Nguyen	Male	Bournemouth	Indian	TRUE
+95	Louis Sanders	Male	Bournemouth	Indian	TRUE
+54	Shawn Wagner	Male	Bournemouth	Indian	TRUE
+99	Antonio Nichols	Male	Bournemouth	Indian	FALSE
+80	Kelly Hunter	Female	Bournemouth	Indian	TRUE
+49	Catherine Brown	Female	Bournemouth	Indian	TRUE
+52	Jean Bradley	Female	Bournemouth	Indian	TRUE
+103	Tina Vasquez	Female	Bournemouth	Indian	FALSE
+100	Diane Richards	Female	Bournemouth	Indian	TRUE
+57	Tammy Green	Female	Bournemouth	Indian	FALSE
+39	Teresa Mason	Female	Bournemouth	Indian	FALSE
+78	Arthur Turner	Male	Bournemouth	Indian	TRUE
+53	Roy Andrews	Male	Bournemouth	Indian	TRUE
+23	Cynthia Adams	Female	Bournemouth	Indian	FALSE
+76	Daniel Martin	Male	Bournemouth	Indian	TRUE
+31	Thomas Moreno	Male	Bournemouth	Indian	FALSE
+86	Ryan Ross	Male	Bournemouth	Indian	TRUE
+86	Peter Banks	Male	Bournemouth	Indian	TRUE
+54	Sharon Arnold	Female	Bournemouth	Indian	FALSE
+71	Terry Howell	Male	Bournemouth	Indian	FALSE
+88	Matthew Gardner	Male	Bournemouth	Indian	FALSE
+88	Todd Kennedy	Male	Bournemouth	Indian	FALSE
+44	Robert Matthews	Male	Bournemouth	Indian	TRUE
+101	Alice Lynch	Female	Bournemouth	Indian	FALSE
+49	Nancy Ford	Female	Bournemouth	Indian	FALSE
+25	Victor Rogers	Male	Bournemouth	Indian	TRUE
+80	Brenda Fisher	Female	Bournemouth	Indian	FALSE
+99	Kenneth Thomas	Male	Bournemouth	Indian	TRUE
+21	Dennis Rose	Male	Bournemouth	Indian	TRUE
+48	Ruth Carroll	Female	Bournemouth	Indian	FALSE
+86	Kathleen Cole	Female	Bournemouth	Indian	FALSE
+52	Gary Nichols	Male	Bournemouth	Indian	FALSE
+57	Diane Sanchez	Female	Bournemouth	Indian	FALSE
+78	Denise Cook	Female	Bournemouth	Indian	TRUE
+60	Anne Walker	Female	Bournemouth	Indian	TRUE
+59	Russell Cox	Male	Bournemouth	Indian	TRUE
+80	Howard Nguyen	Male	Bournemouth	Indian	FALSE
+82	Gloria Wallace	Female	Bournemouth	Indian	TRUE
+88	Kimberly Snyder	Female	Bournemouth	Indian	TRUE
+23	Brandon Vasquez	Male	Bournemouth	Indian	FALSE
+44	Gloria Elliott	Female	Bournemouth	Indian	TRUE
+48	Stephen Kennedy	Male	Bournemouth	Indian	TRUE
+98	Ruth Parker	Female	Bournemouth	Indian	FALSE
+74	Andrea Crawford	Female	Bournemouth	Indian	FALSE
+43	Deborah Warren	Female	Bournemouth	Indian	TRUE
+22	Keith James	Male	Bournemouth	Indian	FALSE
+95	Jeffrey Barnes	Male	Bournemouth	Indian	FALSE
+77	Heather Welch	Female	Bournemouth	Indian	FALSE
+64	Patricia Mitchell	Female	Bournemouth	Indian	FALSE
+52	Lois Hughes	Female	Bournemouth	Indian	TRUE
+101	Kimberly Wallace	Female	Bournemouth	Indian	TRUE
+88	Peter Howell	Male	Bournemouth	Indian	TRUE
+87	Paul Alvarez	Male	Bournemouth	Indian	TRUE
+91	Cheryl James	Female	Bournemouth	Indian	FALSE
+61	Tammy Grant	Female	Bournemouth	Indian	TRUE
+21	Ruth Jenkins	Female	Bournemouth	Indian	TRUE
+64	Christine Meyer	Female	Bournemouth	Indian	TRUE
+19	Angela Barnes	Female	Bournemouth	Indian	TRUE
+48	Howard Ryan	Male	Bournemouth	Indian	FALSE
+49	Roy Ross	Male	Bournemouth	Indian	FALSE
+41	Stephanie Bryant	Female	Bournemouth	Indian	TRUE
+48	George Moore	Male	Bromma	Indian	TRUE
+76	Diane Griffin	Female	Makhalino	Indian	TRUE
+101	Marilyn Hart	Female	Laidian	Indian	TRUE
+25	Gary Warren	Male	Puerto Barrios	Indian	TRUE
+68	Rose Black	Female	Windsor	Indian	TRUE
+63	Christine Mason	Female	Lerida	Indian	TRUE
+67	Samuel Perkins	Male	Praszka	Indian	FALSE
+74	Christina Fields	Female	Bilovods'k	Indian	TRUE
+34	Cynthia Carpenter	Female	Tuohua	Indian	FALSE
+83	Tammy Boyd	Female	Yong’an	Indian	FALSE
+67	Michael Carroll	Male	Rizari	Indian	FALSE
+68	Kevin Arnold	Male	Athabasca	Indian	TRUE
+29	Richard Hunter	Male	Sembalunbumbung	Indian	FALSE
+35	Jeffrey Nelson	Male	Bariri	Indian	TRUE
+102	Kathleen Parker	Female	Khal’ch	Indian	FALSE
+98	Phillip Flores	Male	Fonteleite	Indian	TRUE
+31	Louise Stevens	Female	Diffa	Indian	FALSE
+84	Jane Elliott	Female	Ash Shuqayrah	Indian	FALSE
+26	Denise Gomez	Female	Lembongan Kawan	Indian	TRUE
+69	Thomas Stone	Male	Julita	Indian	FALSE
+89	Peter Bryant	Male	Manaloal	Indian	FALSE
+68	Jimmy Mills	Male	Unawatuna	Indian	FALSE
+55	Bruce Ross	Male	Kosong	Indian	FALSE
+87	Roy Sanchez	Male	West End	Indian	TRUE
+59	Brandon Knight	Male	Pervomays’ke	Indian	TRUE
+20	Julie Kelly	Female	Prevost	Indian	TRUE
+77	Judith Palmer	Female	Ocuviri	Indian	TRUE
+20	Andrew Barnes	Male	Citampian	Indian	FALSE
+83	John Hughes	Male	Sao Jose dos Pinhais	Indian	FALSE
+84	Timothy Foster	Male	Chegutu	Indian	TRUE
+41	Brenda Fuller	Female	Xinminxiang	Indian	TRUE
+90	Howard Bailey	Male	Cikujang	Indian	TRUE
+72	Amy Daniels	Female	West Palm Beach	Indian	FALSE
+75	Thomas Smith	Male	Sabang	Indian	FALSE
+59	Ralph Bowman	Male	Buyun	Indian	TRUE
+20	Harry Johnston	Male	Terney	Indian	FALSE
+54	Joe Ortiz	Male	Bestovje	Indian	TRUE
+29	Earl Bennett	Male	Indija	Indian	FALSE
+25	Samuel Hicks	Male	Atikokan	Indian	FALSE
+51	Brandon Dunn	Male	Reshetikha	Indian	FALSE
+81	Earl Brown	Male	Xinhua	Indian	FALSE
+40	Stephen Nichols	Male	Shadui	Indian	FALSE
+91	Donna Weaver	Female	Liudaogou	Indian	TRUE
+36	Gerald Adams	Male	Pensacola	Indian	FALSE
+50	Harold Jordan	Male	Nuwaybi‘a	Indian	TRUE
+70	Jacqueline Washington	Female	Yihe	Indian	FALSE
+38	Christopher Black	Male	Changling	Indian	FALSE
+77	Craig Brooks	Male	Koper	Indian	TRUE
+40	Anthony Cox	Male	Shiojiri	Indian	TRUE
+96	Mildred Sanchez	Female	Rajal Norte	Indian	TRUE
+66	Virginia George	Female	Hitoyoshi	Indian	FALSE
+94	Sean Simmons	Male	Liverpool	Indian	FALSE
+100	Pamela Chapman	Female	Liverpool	Indian	TRUE
+20	Stephen Johnson	Male	Liverpool	Indian	TRUE
+81	Douglas Knight	Male	Liverpool	Indian	FALSE
+35	Heather Banks	Female	Liverpool	Indian	FALSE
+68	Evelyn Welch	Female	Liverpool	Indian	FALSE
+21	Lori Mason	Female	Liverpool	Indian	FALSE
+95	Cynthia Gray	Female	Liverpool	Indian	FALSE
+21	Joan West	Female	Liverpool	Indian	TRUE
+75	Joan Hansen	Female	Liverpool	Indian	FALSE
+32	Sara Lewis	Female	Liverpool	Indian	TRUE
+76	Amanda Owens	Female	Liverpool	Indian	TRUE
+91	Anthony Carpenter	Male	Liverpool	Indian	TRUE
+49	Rose Hart	Female	Liverpool	Indian	TRUE
+69	Sara Allen	Female	Liverpool	Indian	TRUE
+101	Jose Hayes	Male	Liverpool	Indian	TRUE
+66	Anne Gibson	Female	Liverpool	Indian	FALSE
+24	Brian Jacobs	Male	Liverpool	Indian	TRUE
+45	Howard Harper	Male	Liverpool	Indian	TRUE
+100	Deborah Day	Female	Liverpool	Indian	TRUE
+18	Julia Bradley	Female	Liverpool	Indian	FALSE
+61	Keith Green	Male	Liverpool	Indian	TRUE
+81	Patrick Foster	Male	Liverpool	Indian	TRUE
+92	Paul Burton	Male	Liverpool	Indian	FALSE
+64	Joan Hudson	Female	Liverpool	Indian	FALSE
+63	Brenda Evans	Female	Liverpool	Indian	TRUE
+32	Nicholas Matthews	Male	Liverpool	Indian	TRUE
+23	Jonathan Harrison	Male	Liverpool	Indian	TRUE
+27	Elizabeth Dunn	Female	Liverpool	Indian	FALSE
+74	Jane Moore	Female	Liverpool	Indian	TRUE
+43	Donna Mendoza	Female	Liverpool	Indian	FALSE
+78	Gloria Barnes	Female	Liverpool	Indian	TRUE
+51	Lori Fuller	Female	Liverpool	Indian	FALSE
+40	Philip King	Male	Liverpool	Indian	FALSE
+97	Ann Ryan	Female	Liverpool	Indian	TRUE
+59	Gloria Bishop	Female	Liverpool	Indian	TRUE
+102	Virginia Chapman	Female	Liverpool	Indian	FALSE
+23	Kimberly Wright	Female	Liverpool	Indian	TRUE
+20	Daniel Gonzalez	Male	Liverpool	Indian	FALSE
+74	George Hansen	Male	Liverpool	Indian	TRUE
+99	Howard Rogers	Male	Liverpool	Indian	FALSE
+84	Diane Brown	Female	Liverpool	Indian	TRUE
+85	Tina Little	Female	Liverpool	Indian	TRUE
+85	Jonathan Cook	Male	Liverpool	Indian	FALSE
+53	Randy Ford	Male	Liverpool	Indian	FALSE
+99	Jonathan Ramos	Male	Liverpool	Indian	TRUE
+19	Lois Vasquez	Female	Liverpool	Indian	FALSE
+49	Harry Price	Male	Liverpool	Indian	FALSE
+66	Patrick Wood	Male	Liverpool	Indian	FALSE
+32	Nicole Gilbert	Female	Liverpool	Indian	FALSE
+101	Wanda Gardner	Female	Liverpool	Indian	TRUE
+86	Jack Bowman	Male	Liverpool	Indian	FALSE
+33	Benjamin Castillo	Male	Liverpool	Indian	TRUE
+77	Eric Ward	Male	Liverpool	Indian	TRUE
+46	Jason Lewis	Male	Liverpool	Indian	FALSE
+25	Helen Kelley	Female	Liverpool	Indian	TRUE
+20	Sandra Green	Female	Liverpool	Indian	TRUE
+67	Juan Fields	Male	Liverpool	Indian	FALSE
+96	Gary Martinez	Male	Liverpool	Indian	TRUE
+94	Jeremy Grant	Male	Liverpool	Indian	FALSE
+20	Lori Jacobs	Female	Liverpool	Indian	TRUE
+32	Patrick Hudson	Male	Liverpool	Indian	TRUE
+59	Samuel Scott	Male	Liverpool	Indian	FALSE
+26	Rebecca Butler	Female	Liverpool	Indian	TRUE
+61	Philip Fowler	Male	Liverpool	Indian	TRUE
+33	Frank Adams	Male	Liverpool	Indian	FALSE
+30	Ashley Nelson	Female	Liverpool	Indian	TRUE
+79	Michael Hall	Male	Liverpool	Indian	FALSE
+80	Robert Gordon	Male	Liverpool	Indian	FALSE
+62	Julie Mason	Female	Liverpool	Indian	FALSE
+33	Stephen Chapman	Male	Liverpool	Indian	TRUE
+63	Janice Burton	Female	Liverpool	Indian	FALSE
+80	David Price	Male	Liverpool	Indian	TRUE
+39	Anna Scott	Female	Liverpool	Indian	TRUE
+82	Angela Mcdonald	Female	Liverpool	Indian	FALSE
+44	Ralph Perry	Male	Liverpool	Indian	TRUE
+102	Clarence Robinson	Male	Liverpool	Indian	TRUE
+51	Betty Owens	Female	Liverpool	Indian	FALSE
+43	Todd Chapman	Male	Liverpool	Indian	TRUE
+51	Rebecca Harrison	Female	Liverpool	Indian	FALSE
+40	Victor Palmer	Male	Liverpool	Indian	TRUE
+27	Robin Ryan	Female	Liverpool	Indian	TRUE
+39	Aaron Sanders	Male	Liverpool	Indian	FALSE
+64	Aaron Jackson	Male	Liverpool	Indian	TRUE
+23	Wayne Carter	Male	Liverpool	Indian	FALSE
+31	Frances Fuller	Female	Liverpool	Indian	FALSE
+23	Anthony Ross	Male	Liverpool	Indian	FALSE
+56	Kimberly Taylor	Female	Liverpool	Indian	TRUE
+85	Gerald Bowman	Male	Liverpool	Indian	FALSE
+42	Louis Watkins	Male	Liverpool	Indian	FALSE
+35	Howard Morrison	Male	Norwich	Indian	TRUE
+80	Catherine Butler	Female	Norwich	Indian	FALSE
+78	Jean Holmes	Female	Norwich	Indian	FALSE
+61	Laura Wheeler	Female	Norwich	Indian	FALSE
+31	Catherine Lewis	Female	Norwich	Indian	FALSE
+33	Rose Greene	Female	Norwich	Indian	FALSE
+58	Randy Frazier	Male	Norwich	Indian	TRUE
+90	Susan Weaver	Female	Norwich	Indian	TRUE
+48	Nicole Lynch	Female	Norwich	Indian	FALSE
+90	Ernest Lawrence	Male	Norwich	Indian	TRUE
+95	Eugene Mitchell	Male	Norwich	Indian	FALSE
+27	Arthur Hanson	Male	Norwich	Indian	TRUE
+42	Eric Taylor	Male	Norwich	Indian	TRUE
+82	Kathleen Wheeler	Female	Norwich	Indian	FALSE
+83	Shirley Scott	Female	Norwich	Indian	FALSE
+79	Lori Cruz	Female	Norwich	Indian	TRUE
+85	Kimberly Gordon	Female	Norwich	Indian	FALSE
+69	Samuel Gonzalez	Male	Norwich	Indian	TRUE
+79	Dorothy Williams	Female	Norwich	Indian	TRUE
+24	Nicole Peterson	Female	Norwich	Indian	FALSE
+66	Eric Spencer	Male	Norwich	Indian	FALSE
+20	Carol Duncan	Female	Norwich	Indian	FALSE
+91	Gregory Myers	Male	Norwich	Indian	FALSE
+84	Alice Rice	Female	Norwich	Indian	TRUE
+103	Christopher Hunter	Male	Norwich	Indian	FALSE
+36	Benjamin Fowler	Male	Norwich	Indian	FALSE
+88	Julie Robinson	Female	Norwich	Indian	FALSE
+47	Kimberly Williamson	Female	Norwich	Indian	TRUE
+42	Dennis Simpson	Male	Norwich	Indian	FALSE
+102	Barbara Gutierrez	Female	Norwich	Indian	TRUE
+55	Elizabeth Matthews	Female	Norwich	Indian	FALSE
+25	Cynthia Brooks	Female	Norwich	Indian	TRUE
+85	Rachel Reynolds	Female	Norwich	Indian	FALSE
+89	Clarence Turner	Male	Norwich	Indian	FALSE
+58	Julia Scott	Female	Norwich	Indian	FALSE
+52	Donald Stevens	Male	Norwich	Indian	TRUE
+69	Virginia Lewis	Female	Norwich	Indian	TRUE
+88	Kimberly Hanson	Female	Norwich	Indian	FALSE
+66	Philip Ryan	Male	Norwich	Indian	TRUE
+67	Maria Hunter	Female	Norwich	Indian	TRUE
+62	Marilyn Gonzales	Female	Norwich	Indian	TRUE
+64	Bonnie Kennedy	Female	Norwich	Indian	TRUE
+38	Robert Carroll	Male	Norwich	Indian	TRUE
+60	Marie Gutierrez	Female	Norwich	Indian	TRUE
+56	Gerald Hayes	Male	Norwich	Indian	TRUE
+93	Peter Henderson	Male	Norwich	Indian	TRUE
+89	Kelly Duncan	Female	Norwich	Indian	FALSE
+20	Kathleen Morgan	Female	Norwich	Indian	TRUE
+67	Margaret Ramos	Female	Norwich	Indian	TRUE
+77	Joseph Arnold	Male	Norwich	Indian	FALSE
+41	Theresa Gilbert	Female	Norwich	Indian	TRUE
+40	Katherine Roberts	Female	Norwich	Indian	TRUE
+75	Phyllis Reid	Female	Norwich	Indian	FALSE
+32	Albert Wagner	Male	Norwich	Indian	FALSE
+48	Patricia Fisher	Female	Norwich	Indian	FALSE
+79	Benjamin Banks	Male	Norwich	Indian	TRUE
+68	Bobby Black	Male	Norwich	Indian	TRUE
+47	Marie Morris	Female	Norwich	Indian	TRUE
+83	Jean Brooks	Female	Norwich	Indian	FALSE
+30	Jeremy Foster	Male	Norwich	Indian	TRUE
+62	Ralph Thompson	Male	Norwich	Black or African American	TRUE
+50	Phyllis Wagner	Female	Norwich	Yaqui	TRUE
+18	Lois Griffin	Female	Norwich	Mexican	FALSE
+70	Terry Spencer	Male	Norwich	Native Hawaiian and Other Pacific Islander (NHPI)	FALSE
+59	Donald Wood	Male	Norwich	Bangladeshi	FALSE
+20	Samuel Meyer	Male	Norwich	Fijian	FALSE
+46	Randy Bell	Male	Norwich	Osage	TRUE
+51	Louise Berry	Female	Norwich	Choctaw	FALSE
+77	Nancy Ryan	Female	Norwich	Comanche	FALSE
+60	Phillip Collins	Male	Norwich	Guamanian	TRUE
+51	Christopher Martinez	Male	Norwich	Polynesian	TRUE
+102	Julie Ferguson	Female	Norwich	Honduran	FALSE
+30	Annie Holmes	Female	Norwich	Asian Indian	FALSE
+31	Sarah Richards	Female	Norwich	Yuman	FALSE
+59	Carlos Foster	Male	Norwich	Bolivian	TRUE
+51	Ralph Carr	Male	Norwich	Iroquois	TRUE
+59	Joseph Hunter	Male	Norwich	Korean	TRUE
+30	Kathryn Bennett	Female	Norwich	Chilean	FALSE
+61	Randy Harper	Male	Norwich	Aleut	TRUE
+68	Benjamin Freeman	Male	Norwich	Guatemalan	FALSE
+74	Benjamin Dean	Male	Norwich	Central American	TRUE
+39	Michael Marshall	Male	Norwich	Pueblo	FALSE
+35	Bobby Jackson	Male	Norwich	Menominee	TRUE
+62	Jonathan Owens	Male	Norwich	Taiwanese	FALSE
+93	Jeffrey Gonzalez	Male	Norwich	Comanche	FALSE
+68	Jonathan Evans	Male	Norwich	Pakistani	FALSE
+23	Raymond Fowler	Male	Norwich	Aleut	FALSE
+45	Ralph Stevens	Male	Norwich	South American	TRUE
+55	Heather Robertson	Female	Norwich	Melanesian	FALSE
+56	Paul Dunn	Male	Norwich	Seminole	FALSE
+26	Samuel Cruz	Male	Norwich	Creek	TRUE
+34	Paul Gray	Male	Norwich	Cambodian	FALSE
+83	Helen Harper	Female	Norwich	Shoshone	FALSE
+99	Diane Moore	Female	Norwich	Yuman	TRUE
+34	Anthony Peters	Male	Norwich	White	FALSE
+95	Timothy Lawson	Male	Norwich	Filipino	FALSE
+31	Samuel Berry	Male	Norwich	Puget Sound Salish	TRUE
+33	Jennifer Jacobs	Female	Norwich	Pakistani	TRUE
+75	Fred Spencer	Male	Norwich	Tohono O'Odham	TRUE
+51	Joe Payne	Male	Norwich	Cheyenne	TRUE
+25	George Fernandez	Male	Norwich	Uruguayan	FALSE
+74	Jane Johnson	Female	Norwich	Cambodian	FALSE
+97	Julia Payne	Female	Norwich	Micronesian	FALSE
+21	Jonathan Harvey	Male	Norwich	Filipino	FALSE
+32	Katherine Ramos	Female	Norwich	Filipino	TRUE
+48	Harold Black	Male	Norwich	Filipino	TRUE
+47	Angela Robertson	Female	Norwich	Filipino	TRUE
+91	Helen Gibson	Female	Norwich	Filipino	TRUE
+34	Louise Harvey	Female	Norwich	Filipino	FALSE
+66	Jimmy Hicks	Male	Norwich	Filipino	TRUE
+54	Christine Larson	Female	Norwich	Filipino	TRUE
+62	Lillian Stanley	Female	Norwich	Filipino	TRUE
+67	Dennis Johnson	Male	Norwich	Filipino	TRUE
+28	Billy Henry	Male	Norwich	Filipino	FALSE
+75	Helen Wallace	Female	Norwich	Filipino	FALSE
+53	Willie Russell	Male	Norwich	Filipino	TRUE
+43	Nancy Morrison	Female	Norwich	Filipino	FALSE
+44	Barbara Thomas	Female	Norwich	Filipino	TRUE
+19	Thomas Bennett	Male	Norwich	Filipino	FALSE
+70	Chris Gibson	Male	Norwich	Filipino	FALSE
+54	Janice Crawford	Female	Norwich	Filipino	FALSE
+47	Gary Carr	Male	Norwich	Filipino	FALSE
+77	Mary Perry	Female	Norwich	Filipino	FALSE
+47	Mark Diaz	Male	Norwich	Filipino	TRUE
+68	Christopher Marshall	Male	Norwich	Filipino	TRUE
+98	Robin Jordan	Female	Norwich	Filipino	TRUE
+85	Ronald Hanson	Male	Norwich	Filipino	TRUE
+93	Tina Price	Female	Norwich	Filipino	FALSE
+78	Jeremy Reed	Male	Norwich	Filipino	FALSE
+51	Ryan Riley	Male	Norwich	Filipino	FALSE
+67	Jonathan Brooks	Male	Norwich	Filipino	TRUE
+84	Kathy Morales	Female	Norwich	Filipino	FALSE
+83	Elizabeth Henderson	Female	Norwich	Filipino	FALSE
+34	Robin Bennett	Female	Norwich	Filipino	TRUE
+98	Denise Martinez	Female	Norwich	Filipino	FALSE
+35	Alan Miller	Male	Norwich	Filipino	FALSE
+38	Bruce Anderson	Male	Norwich	Kiowa	FALSE
+61	Carolyn Pierce	Female	Norwich	Asian Indian	FALSE
+19	Robin Patterson	Female	Norwich	Puerto Rican	TRUE
+76	Elizabeth Richardson	Female	Norwich	Polynesian	FALSE
+57	Brian Dean	Male	Norwich	South American	TRUE
+28	Janice Hicks	Female	Norwich	Cheyenne	FALSE
+96	Gary Dunn	Male	Norwich	Chilean	TRUE
+51	Evelyn Duncan	Female	Norwich	Cherokee	FALSE
+43	Donna Robertson	Female	Norwich	Iroquois	TRUE
+81	Anna Hill	Female	Norwich	Ecuadorian	FALSE
+44	Edward Stanley	Male	Norwich	Menominee	FALSE
+78	Margaret Oliver	Female	Norwich	American Indian and Alaska Native (AIAN)	TRUE
+42	Norma Porter	Female	Norwich	Alaskan Athabascan	TRUE
+83	Donald Diaz	Male	Norwich	Costa Rican	TRUE
+81	Timothy Wallace	Male	Norwich	South American	FALSE
+86	Diana Kelley	Female	Norwich	Paiute	FALSE
+93	Lisa Olson	Female	Norwich	Paraguayan	FALSE
+94	Rose Carroll	Female	Norwich	Ute	TRUE
+27	Margaret Franklin	Female	Norwich	Guamanian	TRUE
+87	Sean Perkins	Male	Norwich	Yakama	FALSE
+97	Victor Black	Male	Norwich	Paraguayan	TRUE
+37	Walter Perkins	Male	Norwich	Cambodian	TRUE
+102	Deborah Owens	Female	Norwich	Filipino	FALSE
+21	Virginia Olson	Female	Norwich	Pakistani	FALSE
+77	Julia Stanley	Female	Norwich	Alaska Native	TRUE
+90	Carl Chapman	Male	Norwich	Central American	TRUE
+45	Nicholas Ray	Male	Norwich	Native Hawaiian and Other Pacific Islander (NHPI)	TRUE
+55	Kimberly Dixon	Female	Norwich	Cree	TRUE
+51	Christina Lynch	Female	Norwich	Osage	FALSE
+37	Bobby Davis	Male	Norwich	Honduran	FALSE
+72	Tina Brown	Female	Norwich	Japanese	TRUE
+41	Betty Mason	Female	Norwich	Japanese	TRUE
+41	Marilyn Hill	Female	Norwich	Japanese	FALSE
+82	Lillian Long	Female	Norwich	Japanese	TRUE
+38	Jacqueline Wheeler	Female	Norwich	Japanese	FALSE
+71	Evelyn Hart	Female	Norwich	Japanese	FALSE
+58	Stephen Little	Male	Norwich	Japanese	TRUE
+92	Teresa Jordan	Female	Norwich	Japanese	FALSE
+100	Larry Wilson	Male	Norwich	Japanese	FALSE
+62	Joyce Ellis	Female	Norwich	Japanese	TRUE
+54	Aaron Robertson	Male	Norwich	Japanese	FALSE
+46	Harold Hunt	Male	Norwich	Japanese	TRUE
+37	William Nguyen	Male	Norwich	Japanese	FALSE
+29	Christina Watkins	Female	Norwich	Japanese	TRUE
+53	Jack Fields	Male	Norwich	Japanese	TRUE
+22	Terry Turner	Male	Norwich	Japanese	TRUE
+44	Ann Gray	Female	Norwich	Japanese	FALSE
+18	Doris Mendoza	Female	Norwich	Japanese	FALSE
+39	Henry George	Male	Norwich	Japanese	TRUE
+56	Sharon Reynolds	Female	Norwich	Japanese	TRUE
+33	Jose Lynch	Male	Norwich	Japanese	TRUE
+58	Justin Porter	Male	Norwich	Japanese	FALSE
+94	Lisa Andrews	Female	Norwich	Japanese	FALSE
+74	Paula Perez	Female	Norwich	Japanese	FALSE
+32	Adam Stanley	Male	Norwich	Japanese	TRUE
+27	Brenda Morales	Female	Norwich	Japanese	FALSE
+56	Jesse Murphy	Male	Norwich	Japanese	FALSE
+90	Robert Martinez	Male	Norwich	Cherokee	TRUE
+26	Ann Burton	Female	Norwich	Blackfeet	TRUE
+57	Arthur Hunt	Male	Norwich	Samoan	TRUE
+83	Janice Sullivan	Female	Norwich	Yakama	FALSE
+47	Bobby Romero	Male	Norwich	Paraguayan	TRUE
+53	Adam Perry	Male	Norwich	Ecuadorian	FALSE
+97	Nancy Garcia	Female	Norwich	Colville	TRUE
+42	Michelle Hunter	Female	Norwich	Latin American Indian	FALSE
+72	Judith Adams	Female	Norwich	Native Hawaiian	FALSE
+100	Heather Bryant	Female	Norwich	Chamorro	FALSE
+95	Roger Rodriguez	Male	Norwich	Uruguayan	TRUE
+34	Jason Mason	Male	Norwich	Crow	TRUE
+80	Cynthia Hall	Female	Norwich	Yaqui	FALSE
+84	Karen Kelly	Female	Norwich	Bangladeshi	TRUE
+76	Billy Austin	Male	Norwich	Guatemalan	TRUE
+21	Anne Burns	Female	Norwich	Nicaraguan	TRUE
+71	Terry Bradley	Male	Norwich	Blackfeet	FALSE
+73	Rebecca Cooper	Female	Norwich	South American	TRUE
+103	Phillip Taylor	Male	Norwich	Asian	TRUE
+77	Chris Stanley	Male	Norwich	Yaqui	FALSE
+36	Richard Garza	Male	Norwich	British	FALSE
+22	Walter Gardner	Male	Norwich	British	FALSE
+59	Judith Foster	Female	Norwich	British	FALSE
+46	Arthur Grant	Male	Norwich	British	FALSE
+83	Evelyn Hall	Female	Norwich	British	TRUE
+67	Antonio Carpenter	Male	Norwich	British	TRUE
+20	Joseph Washington	Male	Norwich	British	FALSE
+60	Helen Garrett	Female	Norwich	British	FALSE
+74	Alan Armstrong	Male	Norwich	British	FALSE
+83	Harry Gray	Male	Norwich	British	FALSE
+23	Stephanie Brooks	Female	Norwich	British	FALSE
+37	Joe Knight	Male	Norwich	British	TRUE
+49	Dorothy Fowler	Female	Norwich	British	TRUE
+41	Howard Moore	Male	Norwich	British	TRUE
+74	Gregory Bell	Male	Norwich	British	FALSE
+82	Brandon Olson	Male	Norwich	British	TRUE
+43	Robert Wilson	Male	Norwich	British	FALSE
+76	Nicholas Kennedy	Male	Norwich	British	FALSE
+80	Wayne Vasquez	Male	Norwich	British	TRUE
+93	Alan Snyder	Male	Norwich	British	FALSE
+100	Eric Sims	Male	Norwich	British	FALSE
+59	Willie Carpenter	Male	Norwich	British	FALSE
+57	Cynthia Cunningham	Female	Norwich	British	TRUE
+30	Jimmy Kelly	Male	Norwich	British	FALSE
+21	Todd Gonzalez	Male	Norwich	British	FALSE
+60	Cheryl Patterson	Female	Norwich	British	TRUE
+103	Patricia Fisher	Female	Norwich	British	TRUE
+94	Bonnie Martin	Female	Norwich	British	TRUE
+38	Antonio Edwards	Male	Norwich	British	TRUE
+23	Edward Allen	Male	Norwich	British	FALSE
+45	Richard Spencer	Male	Norwich	Tongan	FALSE
+67	Robert Brooks	Male	Norwich	Indian	FALSE
+50	Shirley Gray	Female	Norwich	Indian	FALSE
+87	Virginia Clark	Female	Norwich	Indian	FALSE
+30	Eugene Holmes	Male	Norwich	Indian	FALSE
+30	Jonathan Franklin	Male	Norwich	Indian	FALSE
+81	Paul Daniels	Male	Norwich	Indian	FALSE
+54	Joshua Adams	Male	Norwich	Indian	FALSE
+69	Carlos Hughes	Male	Norwich	Indian	FALSE
+95	Joshua Bennett	Male	Norwich	Indian	FALSE
+92	Gary Mendoza	Male	Norwich	Indian	FALSE
+91	Mark Thompson	Male	Norwich	Indian	TRUE
+40	Jonathan Walker	Male	Norwich	Indian	TRUE
+37	Lois Turner	Female	Norwich	Indian	FALSE
+34	Lawrence Greene	Male	Norwich	Indian	FALSE
+54	Katherine Sims	Female	Norwich	Indian	FALSE
+50	Chris Ryan	Male	Norwich	Indian	TRUE
+100	Lawrence Richards	Male	Norwich	Indian	TRUE
+52	Shawn Montgomery	Male	Norwich	Indian	FALSE
+65	Mary Richards	Female	Norwich	Indian	FALSE
+44	Ruby Torres	Female	Norwich	Indian	FALSE
+87	Jason Hunt	Male	Norwich	Indian	FALSE
+63	Louis Scott	Male	Norwich	Indian	TRUE
+34	Paul Reyes	Male	Norwich	Indian	TRUE
+70	Scott Burns	Male	Norwich	Indian	FALSE
+23	Denise Wilson	Female	Norwich	Indian	FALSE
+102	Paul Sullivan	Male	Norwich	Indian	TRUE
+55	Gerald Stevens	Male	Norwich	Indian	TRUE
+78	Andrea Burton	Female	Norwich	Asian	FALSE
+26	Bruce Gordon	Male	Norwich	Black	FALSE
+81	Paul Watson	Male	Norwich	Black	TRUE
+90	Kevin Burns	Male	Norwich	Black	TRUE
+85	Timothy Lee	Male	Norwich	Black	TRUE
+98	Jonathan Peterson	Male	Norwich	Black	TRUE
+100	Clarence Medina	Male	Norwich	Black	FALSE
+49	Phillip Sims	Male	Norwich	Black	FALSE
+27	Jerry Gomez	Male	Norwich	Black	FALSE
+51	Cheryl Duncan	Female	Norwich	Black	FALSE
+25	Mildred Weaver	Female	Norwich	Black	TRUE
+38	Henry Edwards	Male	Norwich	Black	FALSE
+102	Martin Watson	Male	Norwich	Black	TRUE
+99	Kelly Robertson	Female	Norwich	Black	TRUE
+101	Sandra West	Female	Norwich	Black	FALSE
+92	Jean Torres	Female	Norwich	Black	TRUE
+89	Wayne Smith	Male	Norwich	Black	FALSE
+21	Walter Howell	Male	Norwich	Black	TRUE
+70	Anne Murray	Female	Norwich	Black	FALSE
+90	Juan Ortiz	Male	Norwich	Black	TRUE
+60	Earl Webb	Male	Norwich	Black	FALSE
+41	Wanda Duncan	Female	Norwich	Black	TRUE
+72	Sara Hawkins	Female	Norwich	Black	FALSE
+90	Judy Simpson	Female	Norwich	Black	FALSE
+73	Joe Collins	Male	Norwich	Black	FALSE
+47	Christopher Bradley	Male	Norwich	Black	TRUE
+64	Cynthia Meyer	Female	Norwich	Black	FALSE
+37	Angela Daniels	Female	Norwich	Black	TRUE
+28	Chris Richardson	Male	Norwich	Black	TRUE
+57	Alice Morales	Female	Norwich	Black	FALSE
+63	Jacqueline Hansen	Female	Norwich	Black	FALSE
+70	Donald Carpenter	Male	Norwich	Black	TRUE
+46	Martin George	Male	Norwich	Black	FALSE
+77	Chris Miller	Male	Norwich	Black	TRUE
+69	Victor Lawson	Male	Norwich	Black	TRUE
+24	Janice Stephens	Female	Norwich	Black	TRUE
+41	Kimberly Richardson	Female	Norwich	Black	FALSE
+81	Martha Wheeler	Female	Norwich	Black	TRUE
+51	Tammy Willis	Female	Norwich	Black	FALSE
+73	John Garcia	Male	Norwich	Black	TRUE
+68	Mark Fisher	Male	Norwich	Black	FALSE
+25	Justin Little	Male	Norwich	Black	FALSE
+82	Carolyn Hudson	Female	Norwich	Black	FALSE
+82	Paul Bishop	Male	Norwich	Black	TRUE
+35	Frank Hart	Male	Norwich	Black	TRUE
+37	David Hicks	Male	Norwich	Black	FALSE
+91	Joe Olson	Male	Norwich	Black	FALSE
+52	Alice Morales	Female	Norwich	Black	TRUE
+95	Alice Fisher	Female	Norwich	Black	FALSE
+63	Kenneth Peters	Male	Norwich	Black	FALSE
+53	Nicole Black	Female	Norwich	Black	TRUE
+34	Peter Olson	Male	Norwich	Black	TRUE
+50	Philip Fisher	Male	Manchester	Black	FALSE
+76	Teresa Jacobs	Female	Manchester	Black	FALSE
+39	Philip Edwards	Male	Manchester	Black	FALSE
+19	Earl Wallace	Male	Manchester	Black	TRUE
+80	Ruth Gray	Female	Manchester	Black	TRUE
+44	Sean Lewis	Male	Manchester	Black	FALSE
+56	Phillip Clark	Male	Manchester	Black	TRUE
+60	Janet Reed	Female	Manchester	Black	TRUE
+43	Kevin Day	Male	Manchester	Black	TRUE
+31	Joshua Wheeler	Male	Manchester	Black	FALSE
+63	Jane Pierce	Female	Manchester	Black	FALSE
+35	Sara Andrews	Female	Manchester	Black	FALSE
+103	Janet Hunt	Female	Manchester	Black	TRUE
+60	David Alexander	Male	Manchester	Black	TRUE
+90	Michael Holmes	Male	Manchester	Black	FALSE
+78	Doris Wright	Female	Manchester	Black	FALSE
+102	Roger Alexander	Male	Manchester	Black	FALSE
+66	Michelle Rogers	Female	Manchester	Black	FALSE
+33	Michael Fuller	Male	Manchester	Black	TRUE
+23	Jacqueline Lopez	Female	Manchester	Black	FALSE
+51	Amanda Sanders	Female	London	Black	TRUE
+44	Anna Barnes	Female	Manchester	Black	FALSE
+57	Carol Lewis	Female	Manchester	Black	FALSE
+91	Jeremy Greene	Male	Manchester	Black	TRUE
+67	Louise Rice	Female	Manchester	Black	TRUE
+28	Bruce Chapman	Male	Manchester	Black	TRUE
+46	Betty Kelly	Female	Manchester	Black	TRUE
+27	Bonnie Wood	Female	Manchester	Black	TRUE
+88	Paul Mcdonald	Male	Manchester	Black	TRUE
+18	Judith Mcdonald	Female	Manchester	Black	FALSE
+84	Cynthia Lane	Female	Manchester	Black	TRUE
+67	James Ramirez	Male	Manchester	Black	FALSE
+88	Earl Reid	Male	Manchester	Black	TRUE
+67	Kathy Garcia	Female	Manchester	Black	FALSE
+58	Shawn Lynch	Male	Manchester	Black	FALSE
+90	Robin Henry	Female	Manchester	Black	FALSE
+95	Melissa Brown	Female	Manchester	Black	TRUE
+48	Ronald Stevens	Male	Manchester	Black	TRUE
+88	Angela Collins	Female	Manchester	Black	TRUE
+48	Lois Stephens	Female	Manchester	Black	TRUE
+100	Donna Cook	Female	Manchester	Black	FALSE
+87	Randy Scott	Male	Manchester	Black	TRUE
+103	Andrea Pierce	Female	Manchester	Black	TRUE
+75	Jacqueline Schmidt	Female	Manchester	Black	FALSE
+25	Jeffrey Romero	Male	Manchester	Black	FALSE
+53	Robin Owens	Female	Manchester	Black	TRUE
+35	Phyllis Reid	Female	Manchester	Black	FALSE
+21	Nicole Lopez	Female	Manchester	Black	TRUE
+78	Denise Wilson	Female	Manchester	Black	FALSE
+26	Timothy Williams	Male	Manchester	Black	FALSE
+26	Keith Bishop	Male	Manchester	Black	FALSE
+31	Barbara Murphy	Female	Manchester	Black	FALSE
+75	Marilyn Young	Female	Manchester	Black	TRUE
+52	Lawrence Snyder	Male	Manchester	Black	FALSE
+94	Bonnie Taylor	Female	Manchester	Black	TRUE
+29	Rebecca Gordon	Female	Manchester	Black	TRUE
+96	Pamela Hernandez	Female	Manchester	Black	FALSE
+73	Ronald Foster	Male	Manchester	Black	FALSE
+39	Barbara Ruiz	Female	Manchester	Black	FALSE
+27	Ralph Taylor	Male	Manchester	Black	FALSE
+50	Thomas Day	Male	Manchester	Black	TRUE
+53	Joan Chapman	Female	Manchester	Black	TRUE
+64	Emily Campbell	Female	Manchester	Black	FALSE
+100	Emily Berry	Female	Manchester	Black	TRUE
+28	Matthew Stewart	Male	Manchester	Black	TRUE
+75	Tammy Webb	Female	Manchester	Black	TRUE
+96	Denise Dunn	Female	Manchester	Black	TRUE
+102	Stephanie Jackson	Female	Manchester	Black	FALSE
+95	Deborah Stevens	Female	Manchester	Black	FALSE
+22	Amanda Bradley	Female	Manchester	Black	TRUE
+28	Jennifer Price	Female	Manchester	Black	TRUE
+30	Richard Olson	Male	Manchester	Black	TRUE
+36	Fred Hanson	Male	Manchester	Black	TRUE
+35	Jean Wallace	Female	Manchester	Black	TRUE
+96	Doris Reid	Female	Manchester	Black	TRUE
+84	Ralph Taylor	Male	Manchester	Black	FALSE
+88	Maria Peterson	Female	Manchester	Black	FALSE
+44	Timothy Allen	Male	Manchester	Black	FALSE
+101	Denise Little	Female	Manchester	Black	FALSE
+72	James Carr	Male	Manchester	Black	TRUE
+29	Dorothy Garcia	Female	Manchester	Black	FALSE
+76	Kelly Wilson	Female	Manchester	Black	TRUE
+54	Douglas Henderson	Male	Manchester	Black	TRUE
+47	Russell Harrison	Male	Manchester	Black	FALSE
+75	Edward Schmidt	Male	Manchester	Black	FALSE
+32	Carlos Stanley	Male	Manchester	Black	TRUE
+52	Virginia Nelson	Female	Manchester	Black	TRUE
+71	Benjamin Perez	Male	Manchester	Black	TRUE
+26	Larry Robinson	Male	Manchester	Black	TRUE
+70	Joyce Wright	Female	Manchester	Black	FALSE
+59	Susan Morrison	Female	Manchester	Black	FALSE
+60	Margaret Ray	Female	Manchester	Black	FALSE
+19	Rachel Hanson	Female	Manchester	Black	FALSE
+79	Brian Sanders	Male	Manchester	Black	TRUE
+86	Harry Cox	Male	Manchester	Black	FALSE
+62	Amy Payne	Female	Manchester	Black	FALSE
+47	Earl Lopez	Male	Manchester	Black	FALSE
+87	Kathy Reid	Female	Manchester	Black	TRUE
+23	Mildred Anderson	Female	Manchester	Black	TRUE
+69	Ann Burton	Female	Manchester	Black	TRUE
+45	Todd Taylor	Male	Manchester	Black	TRUE
+96	Michael Lynch	Male	Manchester	Black	TRUE
+30	Brandon Jordan	Male	Manchester	Black	FALSE
+63	Juan Chapman	Male	Manchester	Black	TRUE
+94	Billy Evans	Male	Manchester	Black	FALSE
+86	Harold Hunter	Male	Manchester	Black	FALSE
+61	Dorothy Carter	Female	Manchester	Black	FALSE
+38	Henry Alexander	Male	Manchester	Black	FALSE
+61	Dennis Palmer	Male	Manchester	Black	TRUE
+64	Bobby Lane	Male	Manchester	Black	TRUE
+87	Harold Morrison	Male	Manchester	Black	TRUE
+72	Christina Lynch	Female	Manchester	Black	FALSE
+21	Christine Phillips	Female	Manchester	Black	FALSE
+86	Carlos Weaver	Male	Manchester	Black	FALSE
+99	Patricia Hernandez	Female	Manchester	Black	TRUE
+77	Sandra Gordon	Female	Manchester	Black	FALSE
+98	Juan Dixon	Male	Manchester	Black	TRUE
+86	Cynthia Perkins	Female	Manchester	Black	FALSE
+29	Beverly Jordan	Female	Manchester	Black	TRUE
+26	Kevin Cunningham	Male	Manchester	Black	FALSE
+57	Barbara Graham	Female	Manchester	Black	TRUE
+66	Billy Marshall	Male	Manchester	Black	TRUE
+72	Rachel Carr	Female	Manchester	Black	FALSE
+22	Brandon Sims	Male	Manchester	Black	FALSE
+56	Martha Johnston	Female	Manchester	Black	TRUE
+47	Joan Lane	Female	Manchester	Black	TRUE
+18	Benjamin Wilson	Male	Manchester	Black	TRUE
+100	Alice Davis	Female	Manchester	Black	FALSE
+55	Denise Ruiz	Female	Manchester	Black	FALSE
+103	Linda Robinson	Female	Manchester	Black	TRUE
+97	Jacqueline Hall	Female	Manchester	Black	FALSE
+86	Maria Olson	Female	Manchester	Black	TRUE
+97	Joshua Olson	Male	Manchester	Black	TRUE
+103	Joe Alexander	Male	Manchester	Black	FALSE
+38	Teresa Ferguson	Female	Manchester	Black	FALSE
+54	Chris Stevens	Male	Manchester	Black	FALSE
+52	Kimberly Gordon	Female	Manchester	Black	TRUE
+102	Linda Morgan	Female	Manchester	Black	FALSE
+76	Jason King	Male	Manchester	Black	TRUE
+24	Norma Stephens	Female	Manchester	Black	TRUE
+48	Diane Webb	Female	Manchester	Black	FALSE
+96	Laura Harper	Female	Manchester	Black	FALSE
+84	Ernest Jenkins	Male	Manchester	Black	TRUE
+85	Philip Flores	Male	Manchester	Black	FALSE
+46	Johnny Roberts	Male	Manchester	Black	FALSE
+72	Victor Burke	Male	Manchester	Alaska Native	TRUE
+48	Linda Arnold	Female	Manchester	Alaskan Athabascan	TRUE
+37	Phyllis Stewart	Female	Manchester	Mexican	FALSE
+24	Doris Ellis	Female	Manchester	Iroquois	FALSE
+101	Arthur Fisher	Male	Manchester	Pueblo	FALSE
+49	Heather Franklin	Female	Manchester	Yaqui	TRUE
+48	Susan Powell	Female	Manchester	Tlingit-Haida	FALSE
+66	Andrea Flores	Female	Manchester	Cree	FALSE
+75	Kelly Hunter	Female	Manchester	Guatemalan	FALSE
+68	Robert Harrison	Male	Manchester	Puerto Rican	TRUE
+79	Billy Collins	Male	Manchester	Ecuadorian	TRUE
+50	Lois Bailey	Female	Manchester	Iroquois	TRUE
+70	Gloria Montgomery	Female	Manchester	Latin American Indian	TRUE
+27	Carl Richardson	Male	Manchester	Sri Lankan	TRUE
+93	Antonio Shaw	Male	Manchester	Dominican (Dominican Republic)	TRUE
+85	Jane Hill	Female	Manchester	Native Hawaiian and Other Pacific Islander (NHPI)	TRUE
+63	Carolyn Bennett	Female	Manchester	Ottawa	TRUE
+86	Joseph Mcdonald	Male	Manchester	Thai	TRUE
+33	Deborah Mason	Female	Manchester	Filipino	TRUE
+42	Amy Stevens	Female	Manchester	Cheyenne	TRUE
+56	Andrea Reyes	Female	Manchester	Chickasaw	FALSE
+91	Anthony Carpenter	Male	Manchester	Uruguayan	FALSE
+46	Julia Kelly	Female	Manchester	South American	FALSE
+23	Lois Carpenter	Female	Manchester	Japanese	TRUE
+37	Frank Schmidt	Male	Manchester	Puget Sound Salish	TRUE
+38	Aaron Garrett	Male	Manchester	Iroquois	FALSE
+87	Nancy Sims	Female	Manchester	Chippewa	TRUE
+79	Thomas Roberts	Male	Manchester	Ottawa	FALSE
+26	Nancy Gomez	Female	Manchester	Central American	TRUE
+85	Joe Lewis	Male	Manchester	Central American	FALSE
+51	Brian Peters	Male	Manchester	Central American	TRUE
+20	Walter Ellis	Male	Manchester	Central American	TRUE
+43	Steven Jordan	Male	Manchester	Central American	FALSE
+96	Fred Peters	Male	Manchester	Central American	TRUE
+72	Robin Austin	Female	Manchester	Central American	FALSE
+94	Walter Lee	Male	Manchester	Central American	TRUE
+81	Evelyn Armstrong	Female	Manchester	Central American	FALSE
+65	Wanda Carpenter	Female	Manchester	Central American	TRUE
+73	Andrew Rivera	Male	Manchester	Central American	FALSE
+51	Terry Fowler	Male	Manchester	Central American	TRUE
+44	Eric Freeman	Male	Manchester	Central American	TRUE
+67	Donald Washington	Male	Manchester	Central American	FALSE
+54	Phillip Ruiz	Male	Manchester	Central American	TRUE
+83	Emily Washington	Female	Manchester	Central American	TRUE
+28	Elizabeth Andrews	Female	Manchester	Central American	TRUE
+23	Angela West	Female	Manchester	Central American	FALSE
+24	Mark Mccoy	Male	Manchester	Central American	FALSE
+75	Joshua Cruz	Male	Manchester	Central American	TRUE
+28	Marilyn Banks	Female	Manchester	Central American	TRUE
+40	Richard Peterson	Male	Manchester	Central American	FALSE
+78	Lois Gibson	Female	Manchester	Central American	TRUE
+36	Tina Ferguson	Female	Manchester	Central American	TRUE
+36	Sharon Coleman	Female	Manchester	Central American	TRUE
+41	Beverly Gutierrez	Female	Manchester	Central American	TRUE
+22	Ralph Bishop	Male	Manchester	Central American	TRUE
+38	Scott Fields	Male	Manchester	Central American	TRUE
+71	Christine Robinson	Female	Manchester	Central American	TRUE
+63	Benjamin Ward	Male	Manchester	Central American	FALSE
+25	Russell Alexander	Male	Manchester	Central American	FALSE
+103	Rebecca Gibson	Female	Manchester	Central American	TRUE
+77	Sharon Kelly	Female	Manchester	Central American	FALSE
+29	Karen Wright	Female	Manchester	Central American	FALSE
+29	Edward Andrews	Male	Manchester	Central American	FALSE
+83	Katherine Collins	Female	Manchester	Central American	TRUE
+58	Tammy Walker	Female	Manchester	Central American	TRUE
+33	Gloria Olson	Female	Manchester	Central American	FALSE
+55	David Palmer	Male	Manchester	Central American	FALSE
+35	Cheryl Wood	Female	Manchester	Central American	FALSE
+41	Brenda Kennedy	Female	Manchester	Central American	FALSE
+32	Alice Howard	Female	Manchester	Central American	TRUE
+45	Emily Harrison	Female	Manchester	Central American	TRUE
+41	Carol Rivera	Female	Manchester	Central American	FALSE
+35	Benjamin Daniels	Male	Manchester	Central American	TRUE
+68	Ruby Jenkins	Female	Manchester	Central American	TRUE
+100	Deborah Hernandez	Female	Manchester	Central American	TRUE
+67	Denise Ellis	Female	Manchester	Central American	TRUE
+89	Frances Moore	Female	Manchester	Central American	FALSE
+53	Heather Wheeler	Female	Manchester	Central American	FALSE
+28	Judy Hanson	Female	Manchester	Central American	TRUE
+100	Louis Cole	Male	Manchester	Central American	FALSE
+41	Thomas Jones	Male	Manchester	Central American	FALSE
+81	Elizabeth Morgan	Female	Manchester	Central American	TRUE
+39	Janet Matthews	Female	Manchester	Central American	TRUE
+33	Larry Gilbert	Male	Manchester	Central American	FALSE
+34	Jimmy Matthews	Male	Manchester	Central American	TRUE
+58	Walter Long	Male	Manchester	Central American	TRUE
+82	Jeremy Rodriguez	Male	Manchester	Central American	TRUE
+87	Christine Jackson	Female	Manchester	Central American	FALSE
+75	Donna Sullivan	Female	Manchester	Central American	FALSE
+95	Jose Jordan	Male	Manchester	Central American	TRUE
+27	Jean George	Female	Manchester	Central American	TRUE
+29	Samuel Payne	Male	Manchester	Central American	TRUE
+28	Jacqueline Ramos	Female	Manchester	Central American	TRUE
+49	Christine Alexander	Female	Manchester	Central American	FALSE
+73	Jose Bryant	Male	Manchester	Central American	FALSE
+43	Beverly Bryant	Female	Manchester	Central American	FALSE
+52	Brian Bradley	Male	Manchester	Central American	FALSE
+68	David Owens	Male	Manchester	Central American	TRUE
+51	Jerry Taylor	Male	Manchester	Central American	FALSE
+79	Annie Ortiz	Female	Manchester	Central American	FALSE
+84	Annie Williamson	Female	Manchester	Central American	TRUE
+22	Alice Nelson	Female	Manchester	Central American	FALSE
+62	Bruce Henry	Male	Manchester	Central American	FALSE
+55	Maria Carter	Female	Manchester	Central American	TRUE
+46	Louise Black	Female	Manchester	Central American	TRUE
+20	Lawrence Hudson	Male	Manchester	Central American	TRUE
+45	Susan Simpson	Female	Manchester	Central American	TRUE
+94	Laura Howard	Female	Manchester	Central American	FALSE
+45	Ernest Long	Male	Manchester	Central American	FALSE
+45	Alice Hansen	Female	Manchester	Central American	FALSE
+73	Virginia Long	Female	Manchester	Central American	FALSE
+63	Lori Long	Female	Manchester	Central American	TRUE
+57	Cynthia Ferguson	Female	Manchester	Central American	FALSE
+98	Jack Alexander	Male	Manchester	Central American	TRUE
+99	Cheryl Foster	Female	Manchester	Central American	TRUE
+99	Henry Hayes	Male	Manchester	Central American	TRUE
+88	Lois Davis	Female	Manchester	Central American	TRUE
+44	Phillip Cruz	Male	Manchester	Central American	TRUE
+89	Sarah Tucker	Female	Manchester	Central American	FALSE
+74	Lois Sullivan	Female	Manchester	Central American	FALSE
+94	Walter Greene	Male	Manchester	Central American	TRUE
+100	Julia Cole	Female	Manchester	Central American	TRUE
+73	Cheryl Garrett	Female	Manchester	Central American	TRUE
+32	Nancy Elliott	Female	Manchester	Central American	FALSE
+81	Carlos Jackson	Male	Manchester	Central American	TRUE
+36	Dennis Martin	Male	Manchester	Central American	TRUE
+76	Tammy Ferguson	Female	Manchester	Central American	FALSE
+50	Joshua Knight	Male	Manchester	Central American	FALSE
+40	Carlos Burke	Male	Manchester	Central American	FALSE
+82	Margaret Peterson	Female	Manchester	Central American	TRUE
+43	George Bradley	Male	Manchester	Central American	FALSE
+51	Kelly Gardner	Female	Manchester	Central American	FALSE
+90	Carlos Myers	Male	Manchester	Central American	TRUE
+34	Nicole Bennett	Female	Manchester	Central American	TRUE
+103	Julie Banks	Female	Manchester	Central American	TRUE
+71	Bonnie Edwards	Female	Manchester	Central American	TRUE
+19	Jack Cole	Male	Manchester	Central American	FALSE
+89	Donna Flores	Female	Manchester	Central American	FALSE
+22	Julia Foster	Female	Manchester	Central American	FALSE
+79	Todd Nichols	Male	Manchester	Central American	TRUE
+42	Rachel Henry	Female	Manchester	Central American	FALSE
+92	Tammy Cooper	Female	Manchester	Central American	FALSE
+65	Alan Grant	Male	Manchester	Central American	FALSE
+59	Fred Ross	Male	Manchester	Central American	FALSE
+99	Dennis Stephens	Male	Manchester	American Indian	TRUE
+87	Nicole Boyd	Female	Manchester	Central American	FALSE
+45	Jesse Hayes	Male	Manchester	Native Hawaiian	FALSE
+54	Randy Perry	Male	Manchester	Choctaw	FALSE
+20	Alan Matthews	Male	Manchester	Fijian	FALSE
+72	Annie Hill	Female	Manchester	Salvadoran	TRUE
+72	Janet Gardner	Female	Manchester	Osage	TRUE
+102	Annie Black	Female	Manchester	Japanese	FALSE
+36	Joan Phillips	Female	Manchester	Nicaraguan	TRUE
+35	Craig Cunningham	Male	Manchester	Iroquois	TRUE
+32	Ann Palmer	Female	Manchester	Samoan	TRUE
+100	Aaron Berry	Male	Manchester	Indonesian	FALSE
+34	Annie Young	Female	Manchester	Yakama	TRUE
+43	Annie Hayes	Female	Manchester	Apache	FALSE
+53	Cheryl Cox	Female	Manchester	Ute	TRUE
+20	Phillip Harvey	Male	Manchester	Navajo	TRUE
+36	Steven Hart	Male	Manchester	Micronesian	TRUE
+84	Marilyn Fernandez	Female	Manchester	Malaysian	FALSE
+65	Anne Johnston	Female	Manchester	Bolivian	FALSE
+22	Evelyn Lane	Female	Manchester	Asian Indian	FALSE
+78	Aaron Jackson	Male	Manchester	Dominican (Dominican Republic)	FALSE
+95	Susan Reid	Female	Manchester	Mexican	FALSE
+94	Sean Graham	Male	Manchester	Mexican	FALSE
+94	Carol Gibson	Female	Manchester	Mexican	FALSE
+99	Norma Lynch	Female	Manchester	Mexican	TRUE
+22	Ann Dean	Female	Manchester	Mexican	TRUE
+92	Diane Freeman	Female	Manchester	Mexican	FALSE
+28	Jesse Johnston	Male	Manchester	Mexican	FALSE
+92	Janice Martin	Female	Manchester	Mexican	FALSE
+43	Ruth Bowman	Female	Manchester	Mexican	TRUE
+61	Marie Ross	Female	Manchester	Mexican	FALSE
+69	Mildred Wagner	Female	Manchester	Mexican	TRUE
+78	Paula Ford	Female	Manchester	Mexican	TRUE
+94	Anna Wilson	Female	Manchester	Mexican	TRUE
+80	Christopher Perry	Male	Manchester	Mexican	FALSE
+60	Joyce Lynch	Female	Manchester	Mexican	TRUE
+48	Jennifer Romero	Female	Manchester	Mexican	FALSE
+65	Jack Powell	Male	Manchester	Mexican	FALSE
+65	Brenda Harper	Female	Manchester	Mexican	FALSE
+28	Laura Mitchell	Female	Manchester	Mexican	TRUE
+64	Anthony Morris	Male	Manchester	Mexican	FALSE
+90	Randy Grant	Male	Manchester	Mexican	FALSE
+82	Louis Ellis	Male	Manchester	Mexican	FALSE
+80	Kathy Green	Female	Manchester	Mexican	FALSE
+58	Jimmy Larson	Male	Manchester	Mexican	TRUE
+81	Robin Hill	Female	Manchester	Mexican	TRUE
+68	Chris Clark	Male	Manchester	Mexican	FALSE
+91	Angela Barnes	Female	Manchester	Mexican	TRUE
+64	Russell Rose	Male	Manchester	Mexican	FALSE
+42	Kathleen Taylor	Female	Manchester	Mexican	FALSE
+43	Andrew Greene	Male	Manchester	Mexican	FALSE
+19	Brenda Griffin	Female	Manchester	Mexican	TRUE
+42	Sandra Bennett	Female	Manchester	Mexican	TRUE
+82	Joe Ferguson	Male	Manchester	Mexican	TRUE
+46	Diana Thompson	Female	Manchester	Mexican	TRUE
+20	Joshua Reed	Male	Manchester	Mexican	TRUE
+47	Ann Johnson	Female	Manchester	Mexican	TRUE
+65	Johnny Sullivan	Male	Manchester	Mexican	TRUE
+38	Michelle Peters	Female	Manchester	Mexican	TRUE
+36	Judy Watkins	Female	Manchester	Mexican	FALSE
+52	Stephen Palmer	Male	Manchester	Mexican	FALSE
+56	Beverly Freeman	Female	Manchester	Mexican	TRUE
+41	Sandra Lane	Female	Manchester	Mexican	FALSE
+47	Brian Johnson	Male	Manchester	Mexican	TRUE
+30	Cynthia Rose	Female	Manchester	Mexican	FALSE
+43	Bonnie Rice	Female	Manchester	Mexican	FALSE
+26	Ralph Little	Male	Manchester	Mexican	FALSE
+48	Joshua Watson	Male	Manchester	Mexican	TRUE
+58	Ralph Garrett	Male	Manchester	Mexican	TRUE
+76	Christopher Hill	Male	Manchester	Mexican	FALSE
+41	Katherine Bryant	Female	Manchester	Mexican	TRUE
+65	Michael Powell	Male	Manchester	Mexican	TRUE
+45	Ralph Stevens	Male	Manchester	Mexican	TRUE
+88	Wanda Porter	Female	Manchester	Mexican	FALSE
+48	Walter Hawkins	Male	Manchester	Mexican	FALSE
+80	Joseph Sims	Male	Manchester	Mexican	TRUE
+96	Joe Phillips	Male	Manchester	Mexican	FALSE
+27	Lawrence Foster	Male	Manchester	Mexican	TRUE
+29	Henry Day	Male	Manchester	Mexican	FALSE
+21	Justin Mills	Male	Manchester	Mexican	FALSE
+20	Larry Garza	Male	Manchester	Mexican	FALSE
+56	Edward Holmes	Male	Manchester	Mexican	FALSE
+102	Amy Jordan	Female	Manchester	Mexican	FALSE
+55	Stephanie Knight	Female	Manchester	Mexican	TRUE
+90	Pamela Harris	Female	Manchester	Mexican	FALSE
+61	Ashley Morrison	Female	Manchester	Mexican	FALSE
+87	Charles Kennedy	Male	Manchester	Mexican	FALSE
+30	Juan Ferguson	Male	Manchester	Mexican	FALSE
+95	Melissa Long	Female	Manchester	Mexican	TRUE
+40	Justin Simpson	Male	Manchester	Mexican	FALSE
+65	Carl Knight	Male	Manchester	Mexican	FALSE
+78	Michael Castillo	Male	Manchester	Mexican	TRUE
+84	Paula Carter	Female	Manchester	Mexican	TRUE
+44	Philip Morales	Male	Manchester	Mexican	TRUE
+56	Amanda Banks	Female	Manchester	Mexican	TRUE
+21	Helen Bennett	Female	Manchester	Mexican	TRUE
+72	Gloria Medina	Female	Manchester	Mexican	FALSE
+46	Matthew Watkins	Male	Manchester	Mexican	FALSE
+79	Keith Oliver	Male	Manchester	Mexican	FALSE
+90	Ann Hansen	Female	Manchester	Mexican	TRUE
+36	Judy Stanley	Female	Manchester	Mexican	FALSE
+62	Brandon Taylor	Male	Manchester	Mexican	TRUE
+67	James Moore	Male	Manchester	Mexican	TRUE
+90	Victor West	Male	Manchester	Chamorro	FALSE
+29	Russell Thompson	Male	Manchester	Laotian	TRUE
+22	Jonathan Jordan	Male	Manchester	Polynesian	TRUE
+90	Annie Rose	Female	Manchester	Costa Rican	FALSE
+96	Amy Hayes	Female	Manchester	Eskimo	FALSE
+18	Maria Richardson	Female	Manchester	Tongan	FALSE
+35	Lillian Hanson	Female	Manchester	Apache	FALSE
+20	Christina Roberts	Female	Manchester	Delaware	TRUE
+27	Roy Mccoy	Male	Manchester	Chinese	TRUE
+56	Anne Gonzales	Female	Manchester	Honduran	FALSE
+39	Edward Edwards	Male	Manchester	Menominee	FALSE
+66	Steven Reyes	Male	Manchester	Bangladeshi	TRUE
+42	Betty Bailey	Female	Manchester	Dominican (Dominican Republic)	TRUE
+44	Richard Palmer	Male	Manchester	Ottawa	TRUE
+36	Judith Warren	Female	Manchester	Tlingit-Haida	FALSE
+72	Linda Stephens	Female	Manchester	Navajo	FALSE
+39	Ruby Rice	Female	Manchester	Japanese	TRUE
+57	Kenneth Garza	Male	Manchester	Taiwanese	TRUE
+57	Alice Williamson	Female	Manchester	Tohono O'Odham	TRUE
+28	Bruce Franklin	Male	Manchester	Fijian	FALSE
+23	Joseph Hanson	Male	Manchester	Seminole	FALSE
+19	Helen Kim	Female	Manchester	Asian Indian	TRUE
+85	John Harrison	Male	Manchester	Iroquois	TRUE
+94	Jane Boyd	Female	Manchester	Shoshone	FALSE
+20	Donna Mitchell	Female	Manchester	Cree	FALSE
+65	Amy Hanson	Female	Manchester	Vietnamese	TRUE
+81	Lawrence Weaver	Male	Manchester	Korean	FALSE
+101	Marilyn Bowman	Female	Manchester	Alaska Native	FALSE
+39	Steven Ramirez	Male	Manchester	Tohono O'Odham	FALSE
+19	Teresa Welch	Female	Manchester	Hmong	TRUE
+93	Norma Mccoy	Female	Manchester	Panamanian	FALSE
+20	Catherine Carter	Female	Manchester	Cambodian	FALSE
+75	Johnny Patterson	Male	Manchester	Cherokee	FALSE
+65	Richard Boyd	Male	Manchester	Yaqui	FALSE
+50	Robin Owens	Female	Manchester	Japanese	TRUE
+51	Nicholas Ruiz	Male	Manchester	Apache	FALSE
+31	Ann Gomez	Female	Manchester	Comanche	FALSE
+60	Justin Mendoza	Male	Manchester	Nicaraguan	TRUE
+24	Amanda Bell	Female	Manchester	Pueblo	FALSE
+56	Patricia Wallace	Female	Manchester	South American	FALSE
+84	Paul Miller	Male	Manchester	Sioux	FALSE
+58	Walter Howell	Male	Manchester	Asian	TRUE
+93	Sarah Warren	Female	Manchester	South American	FALSE
+59	Amy Vasquez	Female	Manchester	Indonesian	TRUE
+99	Rebecca Elliott	Female	Manchester	Pakistani	FALSE
+58	Sarah Phillips	Female	Manchester	Ecuadorian	TRUE
+75	Terry Wilson	Male	Manchester	Creek	TRUE
+74	Melissa Peters	Female	Manchester	Potawatomi	TRUE
+65	Keith Henry	Male	Manchester	Honduran	TRUE
+70	Craig Russell	Male	Manchester	Blackfeet	FALSE
+92	Maria Burns	Female	Manchester	Alaska Native	TRUE
+33	Linda Franklin	Female	Manchester	Comanche	FALSE
+55	Nancy Ellis	Female	Manchester	Vietnamese	FALSE
+32	Roy Anderson	Male	Manchester	Blackfeet	FALSE
+93	Edward Lawson	Male	Manchester	Argentinian	FALSE
+48	Tina Hunt	Female	Manchester	Thai	FALSE
+97	Ruth Reed	Female	Manchester	Thai	TRUE
+73	Norma Castillo	Female	Manchester	Thai	TRUE
+46	Teresa Jacobs	Female	Manchester	Thai	FALSE
+55	Patrick Nichols	Male	Manchester	Thai	TRUE
+97	Marilyn Hunter	Female	Manchester	Thai	FALSE
+41	Donna Morris	Female	Manchester	Thai	TRUE
+81	Irene Montgomery	Female	Manchester	Thai	TRUE
+19	Howard Smith	Male	Manchester	Thai	FALSE
+45	Louis Gray	Male	Manchester	Thai	FALSE
+89	Brandon Day	Male	Manchester	Thai	TRUE
+52	Carl Chapman	Male	Manchester	Thai	TRUE
+99	Jack Stewart	Male	Manchester	Thai	TRUE
+100	Stephanie Adams	Female	Manchester	Thai	TRUE
+103	Ann Ford	Female	Manchester	Thai	FALSE
+68	Teresa Perez	Female	Manchester	Thai	FALSE
+81	Jose Wheeler	Male	Manchester	Thai	TRUE
+94	Donna Bishop	Female	Manchester	Thai	FALSE
+43	Lisa Stevens	Female	Manchester	Thai	FALSE
+76	Joshua Garrett	Male	Manchester	Thai	TRUE
+101	Bonnie Black	Female	Manchester	Thai	FALSE
+19	Debra Nichols	Female	Manchester	Thai	FALSE
+98	Victor Fisher	Male	Manchester	Thai	FALSE
+28	Helen Stephens	Female	Manchester	Thai	FALSE
+37	Marie Reyes	Female	Manchester	Thai	FALSE
+76	Katherine Warren	Female	Manchester	Thai	FALSE
+66	Carol Martin	Female	Manchester	Thai	FALSE
+101	Stephen Scott	Male	Manchester	Thai	FALSE
+92	Carl Reynolds	Male	Manchester	Thai	FALSE
+56	Kathy Robinson	Female	Manchester	Thai	TRUE
+18	Raymond Ramirez	Male	Manchester	Thai	TRUE
+45	Martha Bell	Female	Manchester	Thai	FALSE
+18	Susan Hayes	Female	Manchester	Thai	FALSE
+45	Robert Sullivan	Male	Manchester	Thai	FALSE
+56	Larry Nelson	Male	Manchester	Thai	FALSE
+45	Timothy Hill	Male	Manchester	Thai	FALSE
+40	Donna Smith	Female	Manchester	Thai	TRUE
+36	Joseph Johnston	Male	Manchester	Thai	TRUE
+96	Joan Carr	Female	Manchester	Thai	FALSE
+66	Louis Gomez	Male	Manchester	Thai	TRUE
+96	Harold Tucker	Male	Manchester	Thai	FALSE
+100	Anthony Thomas	Male	Manchester	Thai	FALSE
+20	Kimberly Hanson	Female	Manchester	Thai	FALSE
+47	Mildred Wagner	Female	Manchester	Thai	TRUE
+46	Brenda Thomas	Female	Manchester	Thai	FALSE
+70	Karen Fields	Female	Manchester	Thai	FALSE
+33	Kenneth Armstrong	Male	Manchester	Thai	TRUE
+90	Jose Cox	Male	Manchester	Thai	FALSE
+95	Sharon Gardner	Female	Manchester	Thai	FALSE
+76	Annie Gardner	Female	Manchester	Thai	TRUE
+32	Virginia Olson	Female	Manchester	Thai	FALSE
+51	Nicole Reyes	Female	Manchester	Thai	TRUE
+31	John Ramirez	Male	Manchester	Thai	FALSE
+19	Stephen Montgomery	Male	Manchester	Thai	TRUE
+66	Kevin Rose	Male	Manchester	Thai	TRUE
+77	Shawn Gray	Male	Manchester	Thai	TRUE
+75	Kelly Reid	Female	Manchester	Thai	FALSE
+81	Barbara Lewis	Female	Manchester	Thai	TRUE
+30	Kathy Kim	Female	Manchester	Thai	FALSE
+62	Joseph Rivera	Male	Manchester	Thai	TRUE
+102	Ronald Butler	Male	Manchester	Thai	FALSE
+52	Alan Ross	Male	Manchester	Thai	FALSE
+101	Randy Harvey	Male	Manchester	Costa Rican	TRUE
+63	Johnny Larson	Male	Manchester	Laotian	TRUE
+85	Lori Daniels	Female	Manchester	Apache	FALSE
+47	Willie Harper	Male	Manchester	Navajo	FALSE
+18	Maria Peterson	Female	Manchester	Dominican (Dominican Republic)	FALSE
+78	Joe Stanley	Male	Manchester	Polynesian	FALSE
+88	Arthur Harvey	Male	Manchester	Melanesian	TRUE
+29	Ruth Medina	Female	Manchester	Guatemalan	TRUE
+63	Paul Larson	Male	Manchester	Paraguayan	FALSE
+40	Lori Powell	Female	Manchester	Pima	TRUE
+86	Harry Jackson	Male	Manchester	Native Hawaiian	FALSE
+66	Lillian Reed	Female	Manchester	Puget Sound Salish	TRUE
+99	Diana Tucker	Female	Manchester	Japanese	TRUE
+22	Jason Davis	Male	Manchester	Fijian	FALSE
+31	Anthony Dean	Male	Manchester	Indonesian	FALSE
+93	Paul Gibson	Male	Manchester	Dominican (Dominican Republic)	FALSE
+30	Juan Dean	Male	Manchester	Potawatomi	FALSE
+52	Joyce Davis	Female	Manchester	Chamorro	TRUE
+88	Lisa Gonzalez	Female	Manchester	Chinese	FALSE
+51	Christopher Freeman	Male	Manchester	Choctaw	FALSE
+21	Edward Allen	Male	Manchester	Chilian	FALSE
+90	Ryan Bishop	Male	Manchester	Chilian	TRUE
+19	Harold Owens	Male	Manchester	Chilian	TRUE
+50	Samuel Perry	Male	Manchester	Chilian	TRUE
+88	Victor Ellis	Male	Manchester	Chilian	TRUE
+27	Raymond Dixon	Male	Manchester	Chilian	TRUE
+47	Anne Hansen	Female	Manchester	Chilian	FALSE
+85	Sean Ray	Male	Manchester	Chilian	TRUE
+56	Annie Freeman	Female	Manchester	Chilian	TRUE
+52	Tammy Payne	Female	Manchester	Chilian	TRUE
+54	Mildred Barnes	Female	Manchester	Chilian	FALSE
+101	Frances Webb	Female	Manchester	Chilian	TRUE
+90	Julia Mccoy	Female	Manchester	Chilian	FALSE
+27	Heather Wallace	Female	Manchester	Chilian	FALSE
+82	Teresa Simpson	Female	Manchester	Chilian	TRUE
+70	Ronald Sanchez	Male	Manchester	Chilian	FALSE
+53	Christina Allen	Female	Manchester	Chilian	TRUE
+100	Raymond Schmidt	Male	Manchester	Chilian	TRUE
+101	Linda Fernandez	Female	Manchester	Chilian	TRUE
+70	Patrick Mason	Male	Manchester	Chilian	TRUE
+23	Joseph Murray	Male	Manchester	Chilian	TRUE
+27	Stephanie Torres	Female	Manchester	Chilian	TRUE
+49	Betty Rodriguez	Female	Manchester	Chilian	FALSE
+102	Jesse Perkins	Male	Manchester	Chilian	FALSE
+38	Dennis Robertson	Male	Manchester	Chilian	TRUE
+99	Martin Murphy	Male	Manchester	Chilian	FALSE
+32	Maria Hanson	Female	Manchester	Chilian	FALSE
+49	Bonnie Frazier	Female	Manchester	Chilian	TRUE
+34	Diane Meyer	Female	Manchester	Chilian	FALSE
+87	James Rice	Male	Manchester	Chilian	FALSE
+52	Chris Hanson	Male	Manchester	Chilian	FALSE
+35	Roy Nichols	Male	Manchester	Chilian	FALSE
+56	Randy Hamilton	Male	Manchester	Chilian	FALSE
+91	Janice Edwards	Female	Manchester	Chilian	TRUE
+77	Angela Fisher	Female	Manchester	Chilian	FALSE
+93	Martin Morrison	Male	Manchester	Chilian	FALSE
+19	Joan Taylor	Female	Manchester	Chilian	TRUE
+67	Mary Berry	Female	Manchester	Chilian	FALSE
+27	Margaret Gilbert	Female	Manchester	Cuban	FALSE
+19	Joan Fisher	Female	Manchester	Gypsy	TRUE
+70	Jack Porter	Male	Manchester	Gypsy	FALSE
+70	Brandon Mendoza	Male	Manchester	Gypsy	FALSE
+29	Ruth Stewart	Female	Manchester	Gypsy	FALSE
+103	Paula Martinez	Female	Manchester	Gypsy	FALSE
+75	Jose Welch	Male	Manchester	Gypsy	TRUE
+98	Richard Wells	Male	Manchester	Gypsy	FALSE
+19	Frances Palmer	Female	Manchester	Gypsy	TRUE
+28	Joe Thompson	Male	Manchester	Gypsy	TRUE
+35	David Alvarez	Male	Manchester	Gypsy	FALSE
+50	Randy Campbell	Male	Manchester	Gypsy	TRUE
+102	Frances Thompson	Female	Manchester	Gypsy	FALSE
+98	Joseph Wilson	Male	Manchester	Gypsy	TRUE
+22	Gerald Ramirez	Male	Manchester	Gypsy	FALSE
+53	Christine Young	Female	Manchester	Gypsy	TRUE
+69	Evelyn Thompson	Female	Manchester	Gypsy	FALSE
+81	Wayne Lewis	Male	Manchester	Gypsy	FALSE
+66	Mildred Warren	Female	Manchester	Gypsy	TRUE
+89	Anne Peters	Female	Manchester	Gypsy	FALSE
+29	Clarence Garcia	Male	Manchester	Gypsy	FALSE
+61	Denise Cooper	Female	Manchester	Gypsy	TRUE
+82	Rebecca Cooper	Female	Manchester	Gypsy	TRUE
+69	Charles Harrison	Male	Manchester	Gypsy	FALSE
+94	Keith Smith	Male	Manchester	Gypsy	FALSE
+83	Lisa Wheeler	Female	Manchester	Gypsy	FALSE
+50	Louis Gibson	Male	Manchester	Gypsy	FALSE
+46	Terry Williamson	Male	Manchester	Gypsy	TRUE
+93	Jane Scott	Female	Manchester	Gypsy	FALSE
+103	Maria Fisher	Female	Manchester	Gypsy	FALSE
+84	Tina Hart	Female	Huddersfield	Gypsy	TRUE
+90	Stephen Warren	Male	Huddersfield	Gypsy	TRUE
+54	William Dixon	Male	Huddersfield	Gypsy	TRUE
+18	Lori Cook	Female	Huddersfield	Gypsy	FALSE
+79	Nicole Greene	Female	Huddersfield	Gypsy	TRUE
+102	Mary Olson	Female	Huddersfield	Gypsy	FALSE
+94	Joyce George	Female	Huddersfield	Gypsy	TRUE
+78	Harold Fowler	Male	Huddersfield	Gypsy	FALSE
+75	Ruby Hawkins	Female	Huddersfield	Gypsy	FALSE
+51	Walter Harvey	Male	Huddersfield	Gypsy	FALSE
+33	Gregory Mason	Male	Huddersfield	Gypsy	TRUE
+56	Rose Stephens	Female	Huddersfield	Gypsy	TRUE
+30	Judy Riley	Female	Huddersfield	Gypsy	TRUE
+18	Norma Ellis	Female	Huddersfield	Gypsy	TRUE
+36	Angela Jordan	Female	Huddersfield	Gypsy	FALSE
+100	Michelle Carr	Female	Huddersfield	Gypsy	FALSE
+22	Anne Harris	Female	Huddersfield	Gypsy	FALSE
+75	Kevin Harvey	Male	Huddersfield	Gypsy	TRUE
+81	Justin Larson	Male	Huddersfield	Gypsy	TRUE
+65	Peter Jones	Male	Huddersfield	Gypsy	FALSE
+70	Kathleen Warren	Female	Huddersfield	Gypsy	FALSE
+99	Jeffrey Grant	Male	Huddersfield	Gypsy	FALSE
+65	Tina Gonzales	Female	Huddersfield	Gypsy	TRUE
+103	Janice Ford	Female	Huddersfield	Gypsy	TRUE
+58	Christina King	Female	Huddersfield	Gypsy	FALSE
+54	Frances Hunter	Female	Huddersfield	Gypsy	TRUE
+60	Douglas Walker	Male	Huddersfield	Gypsy	TRUE
+103	Christina Parker	Female	Huddersfield	Gypsy	TRUE
+25	Rachel Smith	Female	Huddersfield	Gypsy	FALSE
+91	Christine Howard	Female	Huddersfield	Gypsy	TRUE
+85	Shirley Jackson	Female	Huddersfield	Gypsy	FALSE
+44	Lawrence Harris	Male	Huddersfield	Gypsy	TRUE
+25	Anthony Franklin	Male	Huddersfield	Gypsy	FALSE
+64	Kathryn Frazier	Female	Huddersfield	Gypsy	TRUE
+41	Gary Webb	Male	Huddersfield	Gypsy	FALSE
+62	Louise Dunn	Female	Huddersfield	Gypsy	FALSE
+42	Nancy Martin	Female	Huddersfield	Gypsy	TRUE
+31	Irene Parker	Female	Huddersfield	Gypsy	FALSE
+18	Philip Powell	Male	Huddersfield	Gypsy	TRUE
+59	Eric Ward	Male	Huddersfield	Gypsy	FALSE
+76	Cynthia Anderson	Female	Huddersfield	Gypsy	FALSE
+61	Jason Burke	Male	Huddersfield	Gypsy	FALSE
+95	Rose Hunter	Female	Huddersfield	Gypsy	TRUE
+86	Kimberly Lynch	Female	Huddersfield	Gypsy	TRUE
+29	Maria Harper	Female	Huddersfield	Gypsy	FALSE
+75	Johnny Andrews	Male	Huddersfield	Gypsy	FALSE
+100	Albert Lane	Male	Huddersfield	Gypsy	TRUE
+34	Barbara Garza	Female	Huddersfield	Gypsy	TRUE
+80	Chris Rose	Male	Huddersfield	Gypsy	FALSE
+70	Lawrence Perry	Male	Huddersfield	Gypsy	TRUE
+50	Raymond Howell	Male	Huddersfield	Gypsy	TRUE
+88	Ronald Collins	Male	Huddersfield	Gypsy	FALSE
+31	Doris Mitchell	Female	Huddersfield	Gypsy	FALSE
+101	Heather Gonzales	Female	Huddersfield	Gypsy	TRUE
+25	Anne Ray	Female	Huddersfield	Gypsy	FALSE
+67	Howard Stewart	Male	Huddersfield	Gypsy	TRUE
+72	Douglas Freeman	Male	Huddersfield	Gypsy	TRUE
+41	James Marshall	Male	Huddersfield	Gypsy	TRUE
+91	Nicholas Webb	Male	Huddersfield	Gypsy	TRUE
+89	Brandon Palmer	Male	Huddersfield	Gypsy	TRUE
+38	Steve Andrews	Male	Huddersfield	Gypsy	TRUE
+57	Brian Cooper	Male	Huddersfield	Gypsy	FALSE
+79	Gloria Stevens	Female	Huddersfield	Gypsy	FALSE
+76	Julia Rodriguez	Female	Huddersfield	Gypsy	FALSE
+81	Tammy Rice	Female	Huddersfield	Gypsy	TRUE
+29	Diane Nichols	Female	Huddersfield	Gypsy	TRUE
+28	Andrew Kelly	Male	Huddersfield	Gypsy	FALSE
+63	Ashley Ferguson	Female	Huddersfield	Gypsy	FALSE
+63	Earl Greene	Male	Huddersfield	Gypsy	TRUE
+44	Louise Bradley	Female	Huddersfield	Gypsy	FALSE
+95	Earl Wheeler	Male	Huddersfield	Gypsy	TRUE
+94	Nicholas Fox	Male	Huddersfield	Gypsy	TRUE
+72	Gary Miller	Male	Huddersfield	Gypsy	FALSE
+47	Rachel Griffin	Female	Huddersfield	Gypsy	TRUE
+33	Willie Ryan	Male	Huddersfield	Gypsy	FALSE
+82	Chris Meyer	Male	Huddersfield	Gypsy	FALSE
+46	Bruce Reed	Male	Huddersfield	Gypsy	FALSE
+43	Wanda Montgomery	Female	Huddersfield	Gypsy	TRUE
+97	Christina Rivera	Female	Huddersfield	Gypsy	TRUE
+34	Lisa Parker	Female	Huddersfield	Gypsy	FALSE
+41	Denise Coleman	Female	Huddersfield	Gypsy	FALSE
+77	Henry Flores	Male	Huddersfield	Gypsy	FALSE
+80	Martin Howell	Male	Huddersfield	Gypsy	TRUE
+53	Carolyn Hawkins	Female	Huddersfield	Gypsy	TRUE
+68	Stephanie Sanchez	Female	Huddersfield	Gypsy	TRUE
+101	Jane Kelly	Female	Huddersfield	Gypsy	TRUE
+37	Susan Harris	Female	Huddersfield	Gypsy	TRUE
+54	Amy George	Female	Huddersfield	Gypsy	TRUE
+36	Bruce Nguyen	Male	Huddersfield	Gypsy	TRUE
+65	Phyllis Harrison	Female	Huddersfield	Gypsy	TRUE
+22	Andrew Flores	Male	Huddersfield	Gypsy	TRUE
+26	Steve Berry	Male	Huddersfield	Gypsy	FALSE
+72	Bonnie Ross	Female	Huddersfield	Gypsy	FALSE
+68	Carol Arnold	Female	Huddersfield	Gypsy	FALSE
+45	Albert Ford	Male	Huddersfield	Native Hawaiian	TRUE
+27	Anthony Rivera	Male	Huddersfield	Panamanian	TRUE
+49	Steven Stanley	Male	Huddersfield	Bolivian	TRUE
+60	Gary Lawson	Male	Huddersfield	Chinese	TRUE
+96	Todd Coleman	Male	Huddersfield	Chinese	FALSE
+60	Mark Price	Male	Huddersfield	Chinese	TRUE
+34	Tammy Kelley	Female	Huddersfield	Chinese	FALSE
+98	Ryan Fuller	Male	Huddersfield	Chinese	FALSE
+99	Brian Gonzales	Male	Huddersfield	Chinese	FALSE
+37	Walter Chavez	Male	Huddersfield	Chinese	FALSE
+33	Virginia Porter	Female	Huddersfield	Chinese	TRUE
+23	Kelly Vasquez	Female	Huddersfield	Chinese	TRUE
+38	Ronald Lee	Male	Huddersfield	Chinese	TRUE
+101	Stephen Kim	Male	Huddersfield	Chinese	FALSE
+101	Maria Wagner	Female	Huddersfield	Chinese	TRUE
+80	Alice Perkins	Female	Huddersfield	Chinese	FALSE
+92	Sharon Daniels	Female	Huddersfield	Chinese	TRUE
+99	Joyce Murphy	Female	Huddersfield	Chinese	TRUE
+41	Norma Andrews	Female	Huddersfield	Chinese	FALSE
+63	Samuel Vasquez	Male	Huddersfield	Chinese	FALSE
+81	Billy Cunningham	Male	Huddersfield	Chinese	FALSE
+36	Ralph Mccoy	Male	Huddersfield	Chinese	FALSE
+71	Robin Diaz	Female	Huddersfield	Chinese	FALSE
+25	Robert Ramirez	Male	Huddersfield	Chinese	TRUE
+23	Joyce Johnson	Female	Huddersfield	Chinese	FALSE
+78	Phillip Ortiz	Male	Huddersfield	Chinese	FALSE
+71	Henry Simmons	Male	Huddersfield	Chinese	TRUE
+99	Thomas Scott	Male	Huddersfield	Chinese	FALSE
+60	Catherine Little	Female	Huddersfield	Chinese	TRUE
+95	Joseph Bailey	Male	Huddersfield	Fijian	TRUE
+22	Nancy Miller	Female	Huddersfield	Black or African American	FALSE
+82	Norma Martin	Female	Huddersfield	Tohono O'Odham	FALSE
+66	Edward Reyes	Male	Huddersfield	Melanesian	FALSE
+39	Robin Torres	Female	Huddersfield	Black or African American	FALSE
+51	Louise Hunter	Female	Huddersfield	Chamorro	TRUE
+95	Wayne Weaver	Male	Huddersfield	American Indian	TRUE
+76	Louis Diaz	Male	Huddersfield	Korean	FALSE
+83	Justin Kelly	Male	Huddersfield	Panamanian	FALSE
+43	Harold Taylor	Male	Huddersfield	Native Hawaiian	FALSE
+31	Betty Meyer	Female	Huddersfield	Sioux	FALSE
+88	Eric Foster	Male	Huddersfield	Yaqui	TRUE
+57	Christine Fowler	Female	Huddersfield	Menominee	FALSE
+45	Sandra Black	Female	Huddersfield	Guatemalan	FALSE
+34	Mildred Harris	Female	Huddersfield	Indonesian	TRUE
+60	Joe Gomez	Male	Huddersfield	Indonesian	TRUE
+70	Sandra Kelley	Female	Huddersfield	Indonesian	FALSE
+33	Carlos Gonzalez	Male	Huddersfield	Indonesian	TRUE
+51	Louise Anderson	Female	Huddersfield	Indonesian	TRUE
+102	Frances Harper	Female	Huddersfield	Indonesian	FALSE
+39	John Nichols	Male	Huddersfield	Indonesian	TRUE
+21	Kimberly Williams	Female	Huddersfield	Indonesian	TRUE
+89	Dennis Rivera	Male	Huddersfield	Indonesian	TRUE
+95	Albert Nichols	Male	Huddersfield	Indonesian	TRUE
+29	Dorothy West	Female	Huddersfield	Indonesian	TRUE
+79	Arthur West	Male	Huddersfield	Indonesian	FALSE
+32	Martha Walker	Female	Huddersfield	Indonesian	TRUE
+97	Joe Wagner	Male	Huddersfield	Indonesian	FALSE
+33	Betty Cruz	Female	Huddersfield	Indonesian	TRUE
+67	Deborah Kim	Female	Huddersfield	Indonesian	FALSE
+96	Laura Riley	Female	Huddersfield	Indonesian	FALSE
+52	Robin Young	Female	Huddersfield	Indonesian	TRUE
+19	Catherine Perkins	Female	Huddersfield	Indonesian	TRUE
+77	Harry Harrison	Male	Huddersfield	Indonesian	TRUE
+103	Joseph Kim	Male	Huddersfield	Indonesian	TRUE
+102	Kathleen Little	Female	Huddersfield	Indonesian	TRUE
+67	William Ryan	Male	Huddersfield	Indonesian	FALSE
+98	James Fox	Male	Huddersfield	Indonesian	FALSE
+61	Louise Stone	Female	Huddersfield	Indonesian	FALSE
+31	Deborah Burke	Female	Huddersfield	Indonesian	FALSE
+59	Ruby Armstrong	Female	Huddersfield	Indonesian	TRUE
+88	Jonathan Kelley	Male	Huddersfield	Indonesian	TRUE
+56	Brian Wheeler	Male	Huddersfield	Menominee	FALSE
+51	Judith Washington	Female	Huddersfield	Guatemalan	TRUE
+25	Martha Shaw	Female	Huddersfield	Panamanian	TRUE
+53	Shawn Castillo	Male	Huddersfield	Bangladeshi	FALSE
+68	Susan Brooks	Female	Huddersfield	Pima	FALSE
+57	Kenneth Moreno	Male	Huddersfield	Bolivian	TRUE
+36	Craig Hunt	Male	Huddersfield	Costa Rican	TRUE
+18	Sara Lewis	Female	Huddersfield	Turk	FALSE
+26	Antonio Harper	Male	Huddersfield	Turk	FALSE
+32	Teresa Scott	Female	Huddersfield	Turk	FALSE
+50	Douglas Edwards	Male	Huddersfield	Turk	TRUE
+37	Frank Berry	Male	Huddersfield	Turk	TRUE
+69	Steve Roberts	Male	Huddersfield	Turk	TRUE
+52	Randy Rivera	Male	Huddersfield	Turk	TRUE
+45	Amanda Holmes	Female	Huddersfield	Turk	FALSE
+23	Lois Carroll	Female	Huddersfield	Turk	FALSE
+93	Janice Peterson	Female	Huddersfield	Turk	FALSE
+74	Ruth Daniels	Female	Huddersfield	Turk	FALSE
+98	Howard Fisher	Male	Huddersfield	Turk	FALSE
+51	Roy Hughes	Male	Huddersfield	Turk	TRUE
+21	Michael Bradley	Male	Huddersfield	Turk	TRUE
+47	Sara Reed	Female	Huddersfield	Turk	TRUE
+20	Helen Myers	Female	Huddersfield	Turk	TRUE
+64	Teresa Gomez	Female	Huddersfield	Turk	FALSE
+61	Andrea Johnston	Female	Huddersfield	Turk	FALSE
+67	Phillip Marshall	Male	Huddersfield	Turk	TRUE
+98	Heather Bryant	Female	Huddersfield	Turk	TRUE
+94	Ruth Stevens	Female	Huddersfield	Turk	TRUE
+46	Gary Bryant	Male	Huddersfield	Turk	TRUE
+88	Brian Scott	Male	Huddersfield	Turk	FALSE
+67	Jessica Myers	Female	Huddersfield	Turk	FALSE
+36	Willie Martin	Male	Huddersfield	Turk	TRUE
+86	Norma Mendoza	Female	Huddersfield	Turk	FALSE
+41	Ryan Shaw	Male	Huddersfield	Turk	TRUE
+32	Craig Mason	Male	Huddersfield	Turk	TRUE
+58	Sean Mccoy	Male	Huddersfield	Turk	TRUE
+92	Harry Jacobs	Male	Huddersfield	Turk	TRUE
+55	Willie Larson	Male	Huddersfield	Turk	TRUE
+47	Lisa Woods	Female	Huddersfield	Turk	FALSE
+42	Mildred Greene	Female	Huddersfield	Turk	FALSE
+37	Kathryn Cole	Female	Huddersfield	Turk	TRUE
+87	Jessica Cook	Female	Huddersfield	Micronesian	TRUE
+49	Michael Montgomery	Male	Huddersfield	Thai	FALSE
+81	Jimmy Daniels	Male	Huddersfield	Apache	FALSE
+35	Beverly Black	Female	Huddersfield	Peruvian	FALSE
+54	Anthony Stanley	Male	Huddersfield	Chickasaw	TRUE
+27	Lawrence Washington	Male	Huddersfield	Samoan	FALSE
+76	Joan Richards	Female	Huddersfield	White	FALSE
+23	Jeremy Perry	Male	Huddersfield	White	TRUE
+32	Michael Cole	Male	Huddersfield	White	FALSE
+90	Jerry Simmons	Male	Huddersfield	White	TRUE
+49	Joyce Mason	Female	Huddersfield	White	FALSE
+76	Anthony Thompson	Male	Huddersfield	White	TRUE
+99	Kathy Martinez	Female	Huddersfield	White	TRUE
+71	Steve Armstrong	Male	Huddersfield	White	FALSE
+30	Helen Phillips	Female	Huddersfield	White	TRUE
+79	Kelly Gardner	Female	Huddersfield	White	TRUE
+78	Arthur Mccoy	Male	Huddersfield	White	FALSE
+101	Terry Reynolds	Male	Huddersfield	White	TRUE
+89	Joyce Harris	Female	Huddersfield	White	FALSE
+71	Theresa Riley	Female	Huddersfield	White	FALSE
+68	Robert Rogers	Male	Huddersfield	White	TRUE
+85	Harold Nguyen	Male	Huddersfield	White	FALSE
+37	Bonnie Hudson	Female	Huddersfield	White	FALSE
+61	Julie Lopez	Female	Huddersfield	White	FALSE
+69	Joan Morales	Female	Huddersfield	White	TRUE
+102	Billy Brooks	Male	Huddersfield	White	FALSE
+96	Roy Adams	Male	Huddersfield	White	TRUE
+77	Joshua Simpson	Male	Huddersfield	White	TRUE
+35	Frank Kennedy	Male	Huddersfield	White	FALSE
+64	Patrick Powell	Male	Huddersfield	White	TRUE
+72	Russell Weaver	Male	Huddersfield	Nicaraguan	TRUE
+72	Harry Richards	Male	Huddersfield	Central American	FALSE
+92	Jacqueline Bell	Female	Huddersfield	Ecuadorian	TRUE
+25	Virginia Spencer	Female	Huddersfield	Navajo	FALSE
+32	Anna Meyer	Female	Huddersfield	Nicaraguan	TRUE
+100	Donald Fisher	Male	Huddersfield	Cuban	FALSE
+61	Mark Vasquez	Male	Huddersfield	Hmong	TRUE
+29	Jack Matthews	Male	Huddersfield	Aleut	FALSE
+26	Amanda Banks	Female	Huddersfield	Malaysian	TRUE
+56	Joshua Kelley	Male	Huddersfield	Native Hawaiian	TRUE
+29	John Ray	Male	Huddersfield	Bolivian	FALSE
+66	Kevin Burke	Male	Huddersfield	Black or African American	FALSE
+78	Jeffrey Parker	Male	Huddersfield	South American	TRUE
+85	Albert Ellis	Male	Huddersfield	Menominee	TRUE
+54	Frank Hunt	Male	Huddersfield	Tohono O'Odham	TRUE
+55	Frank Matthews	Male	Huddersfield	Yakama	FALSE
+75	Jesse Stone	Male	Huddersfield	Indonesian	TRUE
+103	Gary Castillo	Male	Huddersfield	Alaskan Athabascan	TRUE
+98	Jeffrey Carroll	Male	Huddersfield	Laotian	FALSE
+66	Marilyn Lewis	Female	Huddersfield	Houma	TRUE
+66	Ryan Castillo	Male	Huddersfield	Blackfeet	FALSE
+35	Paul Wells	Male	Huddersfield	Puerto Rican	FALSE
+53	Gary Wagner	Male	Huddersfield	Thai	TRUE
+29	Phyllis Owens	Female	Huddersfield	Cree	FALSE
+61	Ruth Snyder	Female	Huddersfield	Panamanian	TRUE
+36	Ralph Gutierrez	Male	Huddersfield	Choctaw	FALSE
+86	Brian Williamson	Male	Huddersfield	Melanesian	TRUE
+95	George Hudson	Male	Huddersfield	American Indian and Alaska Native (AIAN)	FALSE
+97	Shawn Miller	Male	Huddersfield	Venezuelan	TRUE
+103	Sharon Sanders	Female	Huddersfield	Cherokee	FALSE
+28	Amy Wheeler	Female	Huddersfield	Laotian	FALSE
+32	Sharon Hamilton	Female	Huddersfield	Houma	TRUE
+88	Diana Lawson	Female	Huddersfield	Pakistani	FALSE
+44	Maria Stevens	Female	Huddersfield	Cuban	FALSE
+28	Carolyn Gordon	Female	Huddersfield	Cambodian	FALSE
+56	Patrick Lane	Male	Huddersfield	Choctaw	FALSE
+36	James Turner	Male	Huddersfield	Fijian	TRUE
+100	Billy Watson	Male	Huddersfield	Black or African American	FALSE
+20	Kathryn Rose	Female	Huddersfield	Micronesian	FALSE
+98	Phyllis Cunningham	Female	Huddersfield	Native Hawaiian	FALSE
+69	Todd Fox	Male	Huddersfield	Ottawa	FALSE
+91	Joyce Nguyen	Female	Huddersfield	Panamanian	TRUE
+81	Annie Harvey	Female	Huddersfield	Osage	FALSE
+88	John Lee	Male	Huddersfield	Native Hawaiian	TRUE
+55	Brenda Watson	Female	Huddersfield	Bangladeshi	TRUE
+94	Dennis Kennedy	Male	Huddersfield	Asian	FALSE
+82	Jeffrey Thomas	Male	Huddersfield	Asian	FALSE
+51	Billy Gardner	Male	Huddersfield	Asian	FALSE
+58	James Adams	Male	Huddersfield	Asian	FALSE
+64	Eugene Rogers	Male	Huddersfield	Asian	FALSE
+70	Helen Gonzales	Female	Huddersfield	Asian	FALSE
+82	Kenneth Peterson	Male	Huddersfield	Asian	TRUE
+43	Donald Wood	Male	Huddersfield	Asian	TRUE
+66	Anthony Reynolds	Male	Huddersfield	Asian	TRUE
+52	Randy Boyd	Male	Huddersfield	Asian	FALSE
+64	Karen George	Female	Huddersfield	Asian	TRUE
+53	Matthew Washington	Male	Huddersfield	Asian	TRUE
+73	Christina Watson	Female	Huddersfield	Asian	TRUE
+84	Steve Gutierrez	Male	Huddersfield	Asian	TRUE
+63	Cheryl Myers	Female	Huddersfield	Asian	FALSE
+71	Keith Daniels	Male	Huddersfield	Asian	TRUE
+32	Diana King	Female	Karangbalong	Asian	FALSE
+48	Lisa Scott	Female	Tifni	Asian	TRUE
+20	Paula Ellis	Female	London	Asian	FALSE
+56	Paula Ryan	Female	London	Asian	TRUE
+43	Justin Stephens	Male	London	Asian	TRUE
+99	Louis Fisher	Male	London	Asian	FALSE
+18	Pamela Dunn	Female	Pampas	Asian	TRUE
+56	Paul Andrews	Male	Ormoz	Asian	TRUE
+80	Sarah Black	Female	Xinhe	Asian	TRUE
+83	Benjamin Ward	Male	Taiping	Asian	TRUE
+67	Nicole Wells	Female	Brodarica	Asian	FALSE
+79	Eugene Warren	Male	Bedford	Asian	FALSE
+102	Larry Long	Male	Bhisho	Asian	FALSE
+89	Roger Collins	Male	Ganzi	Asian	TRUE
+68	Walter Turner	Male	Chenqiao	Asian	TRUE
+27	Chris Thomas	Male	Setono	Asian	TRUE
+66	Timothy Lewis	Male	Bayt ‘Inun	Asian	FALSE
+43	Martin Ellis	Male	Ujung	Asian	TRUE
+73	Shirley Welch	Female	Binawara	Asian	FALSE
+30	Louise Young	Female	Iracemapolis	Asian	TRUE
+83	Steven Webb	Male	San Jose de Barlovento	Asian	TRUE
+47	Kelly Richards	Female	Caen	Asian	FALSE
+28	Shawn Gardner	Male	London	Asian	FALSE
+33	Walter James	Male	London	Asian	TRUE
+67	Betty Roberts	Female	Hesperange	Asian	TRUE
+73	Janet Wheeler	Female	Kauniainen	Asian	FALSE
+78	Kathryn Jackson	Female	Olejet	Asian	TRUE
+22	Mary Ross	Female	Nizhniy Bestyakh	Asian	FALSE
+100	Aaron Hamilton	Male	Suizhong	Asian	FALSE
+70	Philip Butler	Male	Nantes	Asian	TRUE
+50	Eugene Collins	Male	Al Qurayshiyah	Asian	TRUE
+39	Jose Davis	Male	Kasungu	Shoshone	FALSE
+34	Raymond Little	Male	Nova Era	Ute	TRUE
+60	Amanda Boyd	Female	Lome	Osage	TRUE
+59	Albert Stewart	Male	London	White	TRUE
+36	Michelle Lane	Female	Honglin	White	FALSE
+33	Patricia Morris	Female	Gunung	White	FALSE
+25	Stephanie Fuller	Female	Skrzydlna	White	TRUE
+32	Scott Washington	Male	Lardos	White	TRUE
+52	Joseph Perry	Male	London	White	TRUE
+63	Matthew Tucker	Male	Pokrov	White	TRUE
+21	Billy Howard	Male	London	White	FALSE
+23	Michelle Hart	Female	Franceville	White	FALSE
+26	Benjamin Nelson	Male	Bom Jesus dos Perdoes	White	TRUE
+45	Bobby Nguyen	Male	Rouen	White	TRUE
+49	Jason Diaz	Male	Guarabira	White	FALSE
+59	Christine Chavez	Female	Sandaogou	White	TRUE
+36	Paula Smith	Female	Sch?lcher	White	TRUE
+20	Laura Clark	Female	Jalal-Abad	White	TRUE
+43	Harry Burton	Male	London	White	TRUE
+91	Steven Grant	Male	London	White	TRUE
+37	Kenneth Lee	Male	London	White	FALSE
+81	Annie Kelley	Female	London	White	FALSE
+82	James Meyer	Male	Liyang	White	FALSE
+56	Rebecca Romero	Female	London	White	TRUE
+41	Kathryn Burns	Female	London	White	FALSE
+93	Victor Collins	Male	London	Osage	FALSE
+46	Benjamin Ellis	Male	Bangeran	Argentinian	FALSE
+88	Debra Bell	Female	Muyuka	Shoshone	FALSE
+82	Beverly Arnold	Female	London	Indian	TRUE
+83	Beverly Shaw	Female	London	Bangladeshi	FALSE
+84	Wanda Bryant	Female	London	Nicaraguan	FALSE
+98	Jesse Fowler	Male	London	Colville	TRUE
+78	Randy Berry	Male	Dongchong	Ecuadorian	FALSE
+48	Lillian Cruz	Female	London		Taiwanese	FALSE
+37	Barbara Howard	Female	London	Paraguayan	TRUE
+94	Stephen Hawkins	Male	London	Laotian	TRUE
+27	Sarah Scott	Female	London	Creek	FALSE
+86	Jason Wood	Male	London	Dominican (Dominican Republic)	TRUE
+65	Willie Richardson	Male	London	Asian	TRUE
+29	Jessica Williams	Female	London	Pokemon	TRUE
+56	Andrea Mccoy	Female	Yegor’yevsk	Pokemon	FALSE
+99	Paul Greene	Male	London		Pokemon	FALSE
+92	Wayne Austin	Male	London	Pokemon	FALSE
+51	Andrew Russell	Male	London	Pokemon	FALSE
+51	Frances Gardner	Female	London	Pokemon	FALSE
+43	Karen Peters	Female	London	Pokemon	FALSE
+51	Jack Patterson	Male	London	Pokemon	TRUE
+26	Amanda Howard	Female	Liangchahe	Pokemon	TRUE
+19	Rebecca Stevens	Female	Nowosielce	Pokemon	TRUE
+57	Marie Sanders	Female	Ratchasan	Pokemon	TRUE
+47	Phillip Henderson	Male	Moba	Pokemon	TRUE
+56	Earl Stanley	Male	Fauske	Pokemon	FALSE
+19	Christina Russell	Female	Shiyuetian	Pokemon	TRUE
+58	Rose Ruiz	Female	Horodne	Pokemon	TRUE
+102	Kelly Lewis	Female	Ncue	Pokemon	FALSE
+79	Carlos Reyes	Male	Karapyshi	Pokemon	TRUE
+103	Gerald Smith	Male	Komsomolsk	Pokemon	TRUE
+86	Shirley Wood	Female	Ugljevik	Pokemon	FALSE
+53	Harry Cunningham	Male	Hedong	Pokemon	TRUE
+94	Mary Black	Female	Ciudad Bolivar	Pokemon	FALSE
+61	Denise Williams	Female	Chavao	Pokemon	TRUE
+30	Donna Kennedy	Female	Dubki	Pokemon	TRUE
+20	Joseph Wallace	Male	Kolomanu	Pokemon	FALSE
+24	Eugene Simmons	Male	Beilun	Pokemon	FALSE
+80	Cheryl Mason	Female	Reconquista	Pokemon	FALSE
+55	Gloria Rogers	Female	London	Pokemon	TRUE
+33	Phillip Snyder	Male	London	Pokemon	FALSE
+29	Phillip Brown	Male	London	Pokemon	TRUE
+60	Bonnie Bishop	Female	London	Pokemon	TRUE
+23	Jeremy Sanders	Male	London	Pokemon	FALSE
+85	Ronald Moreno	Male	Sirari	Pokemon	FALSE
+45	Antonio Black	Male	London	Pokemon	FALSE
+63	Terry Matthews	Male	Juanshui	Pokemon	FALSE
+54	Billy Cooper	Male	Ramiriqui	Pokemon	TRUE
+51	Stephanie Fuller	Female	London	Pokemon	TRUE
+31	John Brown	Male	Shangyu	Pokemon	TRUE
+97	Aaron Davis	Male	London	Pokemon	TRUE
+25	Kenneth Chavez	Male	London	Pokemon	TRUE
+55	Scott Powell	Male	Immatin	Pokemon	TRUE
+95	Frank Lawson	Male	London	Pokemon	FALSE
+69	Aaron King	Male	London	Pokemon	TRUE
+82	Carl Stewart	Male	London	Pokemon	TRUE
+66	Jean Burns	Female	Krajan Timur Suger Kidul	Pokemon	FALSE
+22	Bruce Gibson	Male	London	Pokemon	TRUE
+30	Angela Rogers	Female	Wangi	Pokemon	TRUE
+29	Gloria Bell	Female	Sibinal	Pokemon	TRUE
+71	Katherine George	Female	Kopychyntsi	Pokemon	TRUE
+25	Shirley Price	Female	London	Pokemon	FALSE
+31	Frances Ward	Female	Malesina	Pokemon	FALSE
+71	Gregory Lewis	Male	London	Pokemon	FALSE
+45	Benjamin Gonzales	Male	London	Pokemon	TRUE
+26	Betty Foster	Female	London	Pokemon	TRUE
+35	Harold Gardner	Male	Hamburg	Pokemon	FALSE
+98	Michelle Schmidt	Female	Kawayan	Pokemon	FALSE
+30	Jean Robinson	Female	Sremski Karlovci	Pokemon	TRUE
+41	Jean Simmons	Female	Evinayong	Pokemon	FALSE
+70	Janice Palmer	Female	London	Pokemon	FALSE
+98	Arthur Collins	Male	London	Pokemon	TRUE
+33	Betty Bailey	Female	London	Kiowa	TRUE
+78	Wayne Ruiz	Male	London	Thai	TRUE
+36	Sara Henry	Female	London	Samoan	TRUE
+41	David Butler	Male	London	Guatemalan	TRUE
+20	Heather Rose	Female	London	Navajo	FALSE
+84	Martin Wright	Male	London	Laotian	TRUE
+40	Dennis Burns	Male	London	Chickasaw	FALSE
+103	Randy Dixon	Male	Ngedhubasa	Indian	TRUE
+96	Harry Dixon	Male	Tomiya	Peruvian	TRUE
+67	Joseph Murphy	Male	Fengping	Tlingit-Haida	TRUE
+42	Norma Fowler	Female	Wang Noi	South American	FALSE
+64	Juan Baker	Male	Xipi	Alaska Native	TRUE
+54	Anne Flores	Female	Budzow	Ottawa	TRUE
+54	Kathy Rose	Female	Kafr az Zayyat	Crow	TRUE
+70	Cynthia Arnold	Female	Tumen	Hmong	TRUE
+53	Theresa Richards	Female	Kuznia Raciborska	Chamorro	TRUE
+87	Deborah Hall	Female	Patenongan	Blackfeet	TRUE
+24	Paul Weaver	Male	Tavira	Cherokee	FALSE
+54	Jessica Fernandez	Female	Culacling	Malaysian	FALSE
+73	Jennifer Myers	Female	Drakhtik	Latin American Indian	FALSE
+30	Mark Williams	Male	Biting	Blackfeet	TRUE
+97	Kathleen Gibson	Female	Cimo de Vila	Samoan	FALSE
+25	Johnny Phillips	Male	Cangshan	Laotian	FALSE
+27	Elizabeth Reyes	Female	Morelos	Colville	TRUE
+94	Ann Carter	Female	Xinmin	British	FALSE
+73	Victor Walker	Male	Overtornea	British	FALSE
+38	Kathryn Walker	Female	Karlstad	British	FALSE
+41	Frank Marshall	Male	Ucuncha	British	TRUE
+73	Norma Chapman	Female	Kuala Terengganu	British	FALSE
+34	Henry George	Male	Donji Dobric	British	FALSE
+64	Gregory Hunt	Male	Eqlid	British	FALSE
+75	Bruce Mendoza	Male	Cardal	British	TRUE
+49	Shawn Gutierrez	Male	Rzhev	British	TRUE
+22	Johnny Bryant	Male	Sukamulya	British	TRUE
+81	Judy Price	Female	Neftegorsk	British	FALSE
+63	Jerry Hughes	Male	Xazgat	British	FALSE
+102	Anne Wood	Female	Sulecin	British	TRUE
+91	Ann Kelly	Female	Shuanghe	British	TRUE
+71	Phillip Hudson	Male	Warung Wetan	British	TRUE
+44	Christina Bennett	Female	Cocabamba	British	TRUE
+64	Kenneth Reyes	Male	Cimanggu Girang	British	FALSE
+89	Steven Allen	Male	Outeiro	British	TRUE
+32	Rose Mitchell	Female	Paniqui	British	TRUE
+74	Lois Butler	Female	Rychtal	British	TRUE
+61	Joseph West	Male	Burgos	British	TRUE
+92	William Snyder	Male	Pisaras	British	TRUE
+36	Christopher Dunn	Male	Taloqan	British	FALSE
+62	Gary Thomas	Male	Cibeuti	British	FALSE
+22	Jose White	Male	Ubud	British	TRUE
+40	Roy Parker	Male	Gorzyczki	British	TRUE
+46	Anthony Reyes	Male	Lima Pampa	British	TRUE
+48	Laura Lane	Female	Soreang	British	FALSE
+99	Irene Palmer	Female	Marevo	British	TRUE
+48	Kelly Jacobs	Female	Lixin	British	TRUE
+93	Matthew Carter	Male	Savelugu	British	TRUE
+36	Steve Willis	Male	Mojokerto	British	FALSE
+95	Cheryl Wilson	Female	Aleksotas	British	TRUE
+86	Lori Stephens	Female	Forssa	British	TRUE
+70	Sandra Torres	Female	Hexia	British	FALSE
+39	Patricia Ward	Female	Sarzedo	British	FALSE
+21	Katherine Elliott	Female	Lubu	British	TRUE
+23	Mary Thompson	Female	Whitwell	British	FALSE
+77	Phillip Anderson	Male	Jackson	Afghani	FALSE
+27	Lois Patterson	Female	Cochabamba	Afghani	TRUE
+52	Nancy Willis	Female	Boto	Afghani	FALSE
+63	Anthony Ramirez	Male	Chengxi	Afghani	TRUE
+44	Betty Chavez	Female	Forestville	Afghani	FALSE
+30	Amy Torres	Female	Augsburg	Afghani	FALSE
+39	Billy Myers	Male	Luisiana	Afghani	FALSE
+72	Karen Scott	Female	Chanika	Yakama	TRUE
+30	Larry Gomez	Male	Trzebieszow	Osage	TRUE
+60	Ashley Collins	Female	San Marcos	Bangladeshi	FALSE
