@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <customers>
+    <customer name="Francis Mckim" bought-cars="1" spent-money="8478.58" />
+    <customer name="Garret Capron" bought-cars="2" spent-money="7200.89" />
+    <customer name="Johnette Derryberry" bought-cars="1" spent-money="5474.16" />
+    <customer name="Yvonne Mccalla" bought-cars="1" spent-money="5228.00" />
+    <customer name="Rico Peer" bought-cars="1" spent-money="4901.61" />
+    <customer name="Nisha Markwell" bought-cars="1" spent-money="3799.87" />
+    <customer name="Brett Brickley" bought-cars="1" spent-money="2987.58" />
+    <customer name="Oren Perlman" bought-cars="1" spent-money="2970.28" />
+    <customer name="Carole Witman" bought-cars="1" spent-money="2740.06" />
+    <customer name="Louann Holzworth" bought-cars="1" spent-money="2085.30" />
+    <customer name="Jimmy Grossi" bought-cars="1" spent-money="2027.67" />
+    <customer name="Hipolito Lamoreaux" bought-cars="1" spent-money="1829.13" />
+  </customers>
+</CustomersDTO>

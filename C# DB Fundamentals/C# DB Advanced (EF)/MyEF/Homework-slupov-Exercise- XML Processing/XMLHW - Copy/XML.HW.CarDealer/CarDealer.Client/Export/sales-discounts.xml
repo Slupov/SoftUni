@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sales>
+    <sale>
+      <car make="Peugeot" model="405" travelled-distance="9226854775807" />
+      <customer-name>Nisha Markwell</customer-name>
+      <discount>15.25</discount>
+      <price>3799.87</price>
+      <price-with-discount>3220.39</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Toyota" model="Prius" travelled-distance="9223372037" />
+      <customer-name>Garret Capron</customer-name>
+      <discount>21.57</discount>
+      <price>2720.67</price>
+      <price-with-discount>2133.82</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Citroen" model="C4" travelled-distance="213647" />
+      <customer-name>Johnette Derryberry</customer-name>
+      <discount>14.54</discount>
+      <price>5474.16</price>
+      <price-with-discount>4678.22</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Renault" model="Alaskan" travelled-distance="92807" />
+      <customer-name>Louann Holzworth</customer-name>
+      <discount>28.11</discount>
+      <price>2085.30</price>
+      <price-with-discount>1499.12</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Citroen" model="C3" travelled-distance="214647" />
+      <customer-name>Francis Mckim</customer-name>
+      <discount>3.92</discount>
+      <price>8478.58</price>
+      <price-with-discount>8146.22</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Peugeot" model="407" travelled-distance="9223372775807" />
+      <customer-name>Jimmy Grossi</customer-name>
+      <discount>8.97</discount>
+      <price>2027.67</price>
+      <price-with-discount>1845.79</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Toyota" model="Tacoma" travelled-distance="922337807" />
+      <customer-name>Carole Witman</customer-name>
+      <discount>17.14</discount>
+      <price>2740.06</price>
+      <price-with-discount>2270.41</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Nissan" model="370Z" travelled-distance="922307" />
+      <customer-name>Garret Capron</customer-name>
+      <discount>28.46</discount>
+      <price>4480.22</price>
+      <price-with-discount>3205.15</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Seat" model="Mii" travelled-distance="2147447" />
+      <customer-name>Rico Peer</customer-name>
+      <discount>25.26</discount>
+      <price>4901.61</price>
+      <price-with-discount>3663.46</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Nissan" model="370Z" travelled-distance="922337205807" />
+      <customer-name>Brett Brickley</customer-name>
+      <discount>20.41</discount>
+      <price>2987.58</price>
+      <price-with-discount>2377.81</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Rolls-Royce" model="Phantom" travelled-distance="214647" />
+      <customer-name>Hipolito Lamoreaux</customer-name>
+      <discount>10.34</discount>
+      <price>1829.13</price>
+      <price-with-discount>1640</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Ferrari" model="250 GTO" travelled-distance="214747" />
+      <customer-name>Yvonne Mccalla</customer-name>
+      <discount>24.38</discount>
+      <price>5228.00</price>
+      <price-with-discount>3953.41</price-with-discount>
+    </sale>
+    <sale>
+      <car make="Fiat" model="Panda" travelled-distance="21447" />
+      <customer-name>Oren Perlman</customer-name>
+      <discount>27.86</discount>
+      <price>2970.28</price>
+      <price-with-discount>2142.76</price-with-discount>
+    </sale>
+  </sales>
+</SalesDTO>
