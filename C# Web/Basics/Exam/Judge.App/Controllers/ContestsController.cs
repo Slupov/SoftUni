@@ -47,7 +47,6 @@ namespace Judge.App.Controllers
             }
 
             this.ViewModel["rows"] = rows.ToString();
-            this.ViewModel["userDisplay"] = "flex";
             return this.View();
         }
 
