@@ -1,0 +1,12 @@
+﻿<h1>{{{contest-name}}}</h1>
+<br>
+<form method="post">
+    <div class="form-group row">
+        <label class="form-control-label" for="contest-name">Contest Name</label>
+        <input disabled="disabled" required id="contest-name" name="contest-name" pattern="[A-Za-z ].{3,50}" class="form-control"
+               placeholder="{{{contest-name}}}"/>
+    </div>
+    <input type="submit" id="btn-edit-contest" class="btn btn-outline-danger btn-lg btn-block"
+           value="Delete"/>
+    <a id="btn-back" class="btn btn-outline-secondary btn-lg btn-block" href="contests/delete"></a>
+</form>

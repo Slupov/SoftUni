@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.0" />
+    <PackageReference Include="SimpleInjector" Version="4.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Exam\Exam Resources\SimpleMvc.Framework\SimpleMvc.Framework.csproj" />
+    <ProjectReference Include="..\..\Exam\Exam Resources\WebServer\WebServer.csproj" />
+    <ProjectReference Include="..\Judge.Data\Judge.Data.csproj" />
+    <ProjectReference Include="..\Judge.Services\Judge.Services.csproj" />
+  </ItemGroup>
+
+</Project>
