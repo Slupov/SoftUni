@@ -6,16 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="6.1.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.0" />
+    <PackageReference Include="AutoMapper" Version="6.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.1" />
     <PackageReference Include="SimpleInjector" Version="4.0.12" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Exam\Exam Resources\SimpleMvc.Framework\SimpleMvc.Framework.csproj" />
-    <ProjectReference Include="..\..\Exam\Exam Resources\WebServer\WebServer.csproj" />
     <ProjectReference Include="..\Judge.Data\Judge.Data.csproj" />
     <ProjectReference Include="..\Judge.Services\Judge.Services.csproj" />
+    <ProjectReference Include="..\SimpleMvc.Framework\SimpleMvc.Framework.csproj" />
   </ItemGroup>
 
 </Project>

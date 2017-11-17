@@ -1,4 +1,6 @@
-﻿namespace SimpleMvc.Framework.Routers
+﻿using System.Net;
+
+namespace SimpleMvc.Framework.Routers
 {
     using System.IO;
     using System.Linq;
