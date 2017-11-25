@@ -1,36 +1,41 @@
-#ifndef CITB306G1_CSTACK
-#define CITB306G1_CSTACK
+#include <iostream>
+using namespace std;
 
-#include "CLinkedList.h"
-#include "CExceptions.h"
+//forward declarations
+class CStack;
+
+int main()
+{
+	
+	return 0;
+}
 
 #define CSTACK_MAX_CAP 12
-
 class CStack : private CLinkedList {
 public:
-    CStack() {
-        m_nCap = CSTACK_MAX_CAP;
-        m_nCount = 0;
-    }
+	CQueue()
+	{
+		m_nCap = cap;
+		m_nCount = 0;
+	};
 
-    CStack(int cap) {
-        m_nCap = cap;
-        m_nCount = 0;
-    }
+	CQueue(int cap)
+	{
+		m_nCap = min(cap,CSTACK_MAX_CAP);
+		m_nCount = 0;
+	};
 
-    void push(CNode* pNewNode) throw (CExceptionStackOverflow);
-    CNode* pop() throw (CExceptionEmptyStack);
-    void trace() const;
+	virtual ~CQueue() {};
 
+	virtual void push(int* element) throw(CExceptionStackOverflow) = 0;
+	virtual int* pop() throw(CExceptionEmptyStack) = 0;
+    virtual void trace() const;
 
-    int write_file_from_linked_list(char* file_name);
-    int read_from_file_to_linked_list(char* file_name);
-
+	virtual int write_file_from_stack(char* file_name) = 0;
+	virtual int read_from_file_to_stack(char* file_name) = 0;
 
 private:
     int m_nCap;
     int m_nCount;
 };
-
-#endif // CITB306G1_CSTACK
 

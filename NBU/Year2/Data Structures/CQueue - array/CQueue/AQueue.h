@@ -54,9 +54,6 @@ AQueue<TElement>::~AQueue() {
 template <typename TElement>
 void AQueue<TElement>::resize_queue() {
 
-
-
-
     if (m_qTop - m_qBottom < m_nCap) {
         return;
     }
